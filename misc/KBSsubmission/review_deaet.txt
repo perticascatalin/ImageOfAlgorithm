@@ -9,7 +9,7 @@ Catalin
 State of the Art - started
 
 Subject in Context- started
-	- Programming Education - done before
+	- Programming Education - well covered in motivation
 	- Program Induction - done
 	- Dynamics of Complex Behavior - to do
 		- Celular Automata
@@ -18,11 +18,19 @@ Subject in Context- started
 	- Blending Patterns (hybrid) - to do
 		- Conceptors
 		- Texture and Content
-Experiments
+Experiments Comparisons
+
+- 2 to dos for subject in context
+- experiment comparisions
 
 TODO very important
 ---------------
-Highlights & Conclusions - C left 2 comments in conclusions
+Highlights & Conclusions
+	- C left 2 comments in conclusions
+	- Conclusions need to show added value to the field
+	- Conclusions should be relevant and convincing
+	- Highlight exactly the steps in the proposal
+
 Neural Program vs. Cellular Automata - started in graphical review
 
 Revisions and Answers
@@ -46,7 +54,7 @@ C: here should re-read related work and set some graphical connections (SA 1, 2,
 
 SA 1: Program Induction
 
-Many papers, check Google Doc
+Many papers, check Google Doc. It also provides considerable background in this field.
 
 SA 2: Hybrid methods
 
@@ -75,13 +83,17 @@ A - R1d: It should be necessary to remark that is supposed to be a new field, bu
 
 C: These are detailed in the Google Doc, the Google Doc is to be merged into the journal paper
 
-R1e: It is necessary to clearly understand to usefulness of the new field to see if it is worth it or not.
+A - R1e: It is necessary to clearly understand the usefulness of the new field to see if it is worth it or not.
+
+C: Automatically generating computer programs based on execution traces
 
 R1f: It is necessary to highlight exactly the steps of the proposal.
 
-R1g: The experiments do not provide any relevant and convincing conclusions, just a few general remarks. 
+C: Need to do (visual execution traces -> CNN,RNN -> neural programs)
 
+A - R1g: The experiments do not provide any relevant and convincing conclusions, just a few general remarks. 
 
+C: Need to do (think of what is relevant & convincing)
 
 Reviewer #2: 
 
@@ -103,7 +115,11 @@ C: should mention the links to journal topics 1-by-1
 
 R2b: On the other hand, an extensive comparison with other related methods is necessary in the experimental part of the paper. 
 
+C: Need to do
+
 R2c: The area of application of the results is very reduced  (sorting and non-sorting programs on a numeric array).
+
+C: Need to do
 
 R2d: I think that a section by comparing the methods presented with the concepts of cellular automata and finete state machines would be interesting.
 
