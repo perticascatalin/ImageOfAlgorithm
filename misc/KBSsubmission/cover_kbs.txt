@@ -1,0 +1,1 @@
+We are submitting our manuscript "Detection and Emulation of Algorithms from Execution Traces" for publication in the Knowledge-Based Systems. This is our original work and it is not being considered for publication anywhere else. We look forward to hearing from you. Sincerely, Catalin Perticas and Bipin Indurkhya
