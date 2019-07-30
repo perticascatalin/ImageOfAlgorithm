@@ -30,10 +30,11 @@ TODOs
 - 1/2 to dos for subject in context (2h)
 - finished state of the art - DONE
 - experiment comparisions - urgent to do - 2h
-- address your own feedback - 2h
+- address your own feedback (+abstract) - 2h
 - work on conclusions - 2h
 - work on highlights - 2h 
 	[experiment is setting a framework for learning from program traces and makes progress in understanding the practical limitations of NNs in program induction]
+- re-read end-to-end
 
 Total: 12h
 
