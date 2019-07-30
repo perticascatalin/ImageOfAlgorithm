@@ -6,25 +6,36 @@ Narrative
 
 Catalin
 ---------------
-State of the Art - started
+State of the Art - done
 
-Subject in Context- started
+Subject in Context - started
 	- Programming Education - well covered in motivation
-	- Program Induction - done
-	- Dynamics of Complex Behavior - to do
-		- Celular Automata
+	- Program Induction - done in Google Doc [introduction and related papers 10-11]
+	- Dynamics of Complex Behavior - [doing in related work, decorator 1]
+		- Celular Automata - done decorator 1
 		- Finite State Machines
-		- Turing Complete RNNs
-	- Blending Patterns (hybrid) - to do
-		- Conceptors
-		- Texture and Content
+		- Turing Complete RNNs - pitched in Related work, decorator 1
+	- Blending Patterns (hybrid) - [doing in future app, decorator 2]
+		- Conceptors - pitched in Applications/Related work, decorator 1,
+		- Texture and Content - pitched in Applications
+	- Relating Debugging/Programming 
+		- with an intelligent agent watching traces - done , decorator 2
 Experiments Comparisons
 
-- finish answers (make blue, yellow and red text in another Google Doc) - 1h left
-- 2 to dos for subject in context (more hours)
-- experiment comparisions - urgent to do - 4h
+TODOs
+---------------
+
+- finish answers (make blue, yellow and red text in another Google Doc) - 1h
+- integrate Program Induction part - 1h 
+- 1/2 to dos for subject in context (2h)
+- finished state of the art - DONE
+- experiment comparisions - urgent to do - 2h
+- address your own feedback - 2h
 - work on conclusions - 2h
-- work on highlights - 2h
+- work on highlights - 2h 
+	[experiment is setting a framework for learning from program traces and makes progress in understanding the practical limitations of NNs in program induction]
+
+Total: 12h
 
 TODO very important
 ---------------
