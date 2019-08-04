@@ -33,19 +33,24 @@ Catalin
 State of the Art - DONE
 
 Subject in Context - ALMOST DONE
-	- Programming Education - well covered in motivation
-	- Program Induction - DONE, needs cleanup and figure
-		- done in Google Doc [introduction and related papers 10-11]
+	- Programming Education - DONE (well covered in motivation)
+
+	- Program Induction - DONE, needs figure
 		- Program Induction Background section in Overleaf
-	- Dynamics of Complex Behavior - [DOING in related work, decorator 1, decorator 3]
-		- Cellular Automata - done decorator 1
-		- Finite State Machines
+
+	- Dynamics of Complex Behavior - DONE
+		- Cellular Automata - done, decorator 1
+		- Finite State Machines - not done, check Turing Rnn paper
 		- Turing Complete RNNs - pitched in Related work, decorator 3
-	- Blending Patterns (hybrid) - [DOING in future app, decorator 2]
-		- Conceptors - pitched in Applications/Related work, decorator 3,
-		- Texture and Content - pitched in Applications
+		- Conceptors - ptiched in Related work, decorator 3
+
 	- Relating Debugging/Programming  - DONE
 		- with an intelligent agent watching traces - done , decorator 2
+
+	- Blending Patterns (hybrid) - [DOING in future app, decorator 2]
+		- Conceptors - pitched in Applications, decorator 2,
+		- Texture and Content - pitched in Applications, decorator 2
+
 
 Experiments Comparisons
 
@@ -60,32 +65,32 @@ Experiments Comparisons
 		- recognize, detect
 		- behaving like a sorting algorithm
 
+Highlights & Conclusions
+	- C left 2 comments in conclusions - DONE
+	- Highlight exactly the steps in the proposal - DONE
+
+	- Conclusions need to show added value to the field
+	- Conclusions should be relevant and convincing
+	
+
 TODOs
 ---------------
 
-- finish answers (make blue, yellow and red text in another Google Doc) - 1h
-- integrate Program Induction part - 1h/1h - DONE 
-- subject in context (4h/4h) - DONE
-- finished state of the art - DONE
-- experiment comparisions - urgent to do - /4h
-- address your own feedback (+ abstract) - 2h
+- experiment comparisons - urgent to do - /4h
+- address your own feedback - 2h
 - work on conclusions - 2h
-- work on highlights - 2h/2h - DONE
-	- write directly in Overleaf
-	-[experiment is setting a framework for learning from program traces and makes progress in understanding the practical limitations of NNs in program induction]
 - re-read end-to-end
 
-Total: 7h/16h (after plan made and first revision 2 weeks, currently in second revision third week)
+- integrate Program Induction part - 1h/1h - DONE 
+- finished state of the art - DONE
+- subject in context (4h/4h) - DONE
+- work on highlights - 2h/2h - DONE
+- finish answers (make blue, yellow and red text in Answer GD) - 1h/1h - DONE
 
-TODO very important
----------------
-Highlights & Conclusions
-	- C left 2 comments in conclusions
-	- Conclusions need to show added value to the field
-	- Conclusions should be relevant and convincing
-	- Highlight exactly the steps in the proposal
+Total: 8h/16h (after plan made and first revision 2 weeks, currently in second revision third week)
 
-Neural Program vs. Cellular Automata - started in graphical review
+
+Neural Program vs. Cellular Automata - started in graphical review, discussed in related work
 
 Related work (state of art and subject in context) initial plan
 ================================
@@ -104,7 +109,7 @@ Combining texture and content paper.
 
 SA 3: Complex Dynamical Behavior
 
-Related Work quote: "Our classification experiments are performed both on specific classes of programs, as well as family of programs. From this point of view, it is conceptually related to iss ues discussed in [14] (concepts for dynamic patterns) and [15] (behavior of cellular automata)."
+Related Work starting point quote: "Our classification experiments are performed both on specific classes of programs, as well as family of programs. From this point of view, it is conceptually related to iss ues discussed in [14] (concepts for dynamic patterns) and [15] (behavior of cellular automata)."
 ================================
 
 Revisions and Answers
