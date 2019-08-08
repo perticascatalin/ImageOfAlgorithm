@@ -55,10 +55,14 @@ Subject in Context - ALMOST DONE
 Experiments Comparisons
 
 	- Analysis of Results (4 points) - decorator 4
-		- local patterns emulation
-		- trend patterns
-		- good abstraction - learning that it's only one swap
+		- local patterns emulation - 
+		- trend patterns - 
+		- good abstraction - learning that it's only one swap - done
 		- error cumulation
+	- Experiments from other papers
+		- NTM,DNC comparison
+		- PtrNet,RPWNet comparison
+		- basic problem comparison
 	- Why the problem is so hard (in increasing order, an analysis)
 		- comparison operator
 		- sum aggregator
@@ -79,10 +83,11 @@ Highlights & Conclusions
 TODOs
 ---------------
 
-- experiment comparisons - urgent to do - 2h/4h
+- experiment comparisons - urgent to do - 4h/4h
 - address your own feedback - 2h
-- work on conclusions - 2h
-- re-read end-to-end
+- work on conclusions - 2h/2h
+- re-read bibliography - 2h/2h
+- re-read end-to-end tatatatam
 
 - integrate Program Induction part - 1h/1h - DONE 
 - finished state of the art - DONE
@@ -90,7 +95,7 @@ TODOs
 - work on highlights - 2h/2h - DONE
 - finish answers (make blue, yellow and red text in Answer GD) - 1h/1h - DONE
 
-Total: 10h/16h (after plan made and first revision 2 weeks, currently in second revision third week)
+Total: 16h/18h (after plan made and first revision 2 weeks, currently in second revision third week)
 
 
 Neural Program vs. Cellular Automata - started in graphical review, discussed in related work
