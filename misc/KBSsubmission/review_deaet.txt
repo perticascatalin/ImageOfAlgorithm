@@ -24,8 +24,8 @@ SPECIAL ISSUE ON: New Innovations in Machine Learning and Software Science (NEML
 
 Bipin
 ---------------
-Abstract - C left 2 comments in abstract, B addressed abstract
-Goal - C left 2 comments in introduction, B addressed 1 comment
+Abstract - DONE
+Goal - C left 2 comments in introduction, B addressed
 Narrative
 
 Catalin
@@ -64,6 +64,10 @@ Experiments Comparisons
 		- PtrNet,RPWNet comparison
 		- basic problem comparison
 	- Final overall accuracy to Trace Generator Experiment
+	- Evaluation of SIP (next swap acc vs overall vs order at end)
+	- Explain Table with results
+		- 
+	- The 4 points of analysis - almost done
 	- Why the problem is so hard (in increasing order, an analysis)
 		- comparison operator
 		- sum aggregator
@@ -90,13 +94,14 @@ TODOs
 - re-read bibliography - 2h/2h
 - re-read end-to-end tatatatam
 
-- integrate Program Induction part - 1h/1h - DONE 
+- integrate Program Induction part - 1h/2h - DONE
+
 - finished state of the art - DONE
 - subject in context (4h/4h) - DONE
 - work on highlights - 2h/2h - DONE
-- finish answers (make blue, yellow and red text in Answer GD) - 1h/1h - DONE
+- finish answers (make blue, yellow and red text in Answer GD) - 2h/2h - DONE
 
-Total: 18h/18h (after plan made and first revision 2 weeks, currently in second revision third week)
+Total: 19h/22h (after plan made and first revision 2 weeks, currently in second revision third week)
 
 
 Neural Program vs. Cellular Automata - started in graphical review, discussed in related work
@@ -120,74 +125,3 @@ SA 3: Complex Dynamical Behavior
 
 Related Work starting point quote: "Our classification experiments are performed both on specific classes of programs, as well as family of programs. From this point of view, it is conceptually related to iss ues discussed in [14] (concepts for dynamic patterns) and [15] (behavior of cellular automata)."
 ================================
-
-Revisions and Answers
----------------
-
-ae: a MAJOR REVISION  is necessary following the referee comments.
-
-
-Reviewer #1: 
-
-
-A - R1a: The abstract is really poor to understand what the article is about.
-
-C: made the experimental part clearer in abstract (P1 & P2)
-
-A - R1b: The state of the art is really poor, it does not allow the reader to see the general framework of the proposal.
-
-C: here should re-read related work and set some graphical connections (SA 1, 2, 3)
-
-A - R1c: The main problem of this article is the goal is not clear, it starts in the introduction talking about intelligent agents and enumerate several mechanisms but, for example, the 4th point is talking about a goal in the long run (is that a mechanism? What does it have to do with the rest of points?)
-
-C: The 4th point is simply motivating this study. It's an exploratory topic which we only lightly present at the end of the paper. However, similar ideas in the literature re-inforce the validity of our proposal in this regard (check Hybrid Methods SA 2).
-
-C: On the other hand, the neural algorithms learned by the models, could be considered new programs obeying certain constraints (this is because we say in introduction that we pursuit this direction.)
-
-C: Hybrid programs could be achieved by blending neural execution traces.
-
-A - R1d: It should be necessary to remark that is supposed to be a new field, but only at the end of the paper is mentioned that are not works about this. On the contrary, what is the novelty of the proposal? How to compare this against other proposal? What other proposals are working on this nowadays?
-
-C: These are detailed in the Google Doc, the Google Doc is to be merged into the journal paper
-
-R1e: It is necessary to clearly understand the usefulness of the new field to see if it is worth it or not.
-
-C: Automatically generating computer programs based on execution traces
-
-R1f: It is necessary to highlight exactly the steps of the proposal.
-
-C: Need to do (visual execution traces -> CNN,RNN -> neural programs)
-
-R1g: The experiments do not provide any relevant and convincing conclusions, just a few general remarks. 
-
-C: Need to do (think of what is relevant & convincing)
-
-Reviewer #2: 
-
-
-The work "Detection and Emulation of Algorithms from Execution Traces" carries out several tasks:
-
--) It develops a method to visualize the dynamic of the algorithms. Several kinds of programs are visualized.
-
--) The kinds of programs are classified by using neural networks.
-
--) It uses recurrent neural networks to detect sub-programs inside execution traces.
-
--) Finally, a method to predict the next step of an algorithm is presented. 
-
-
-A - R2a: I am not sure that this paper is indicated for being published in the Journal Knowledge-Based Systems. I think that this journal has a different scope to that of work.
-
-C: should mention the links to journal topics 1-by-1 (marked with ++++ the relevant topics)
-
-R2b: On the other hand, an extensive comparison with other related methods is necessary in the experimental part of the paper. 
-
-C: Need to do
-
-R2c: The area of application of the results is very reduced  (sorting and non-sorting programs on a numeric array).
-
-C: Need to do
-
-A - R2d: I think that a section by comparing the methods presented with the concepts of cellular automata and finete state machines would be interesting.
-
-C: check decorator 1 in Related Work
