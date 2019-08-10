@@ -2,37 +2,25 @@ Journal Scope
 
 SPECIAL ISSUE ON: New Innovations in Machine Learning and Software Science (NEMLSS)
 
-- End-user programming environment,
-
-- Semi-supervised learning, transfer learning and domain adaptation.
-
-- Deep learning technologies in advanced software systems
 
 - Granular computation in software systems ++++
 
-- User-centered Adoption-Centric Reengineering techniques.
-
 - Ontology, cognitive models and philosophical aspects on software design. ++++
-
-- Medical Informatics, Software methods and application for biomedicine.　
 
 - Artificial Intelligence Techniques on Software Engineering. ++++
 
-- Intelligent decision support systems and consensus
-
-- Big data software and applications in smart energy, smart business and smart cities.
 
 Bipin
 ---------------
 Abstract - DONE
 Goal - DONE
-Narrative
+Narrative - Catalin did it
 
 Catalin
 ---------------
 State of the Art - DONE
 
-Subject in Context - ALMOST DONE
+Subject in Context - ADONE
 	- Programming Education - DONE (well covered in motivation)
 
 	- Program Induction - DONE, needs figure
@@ -47,7 +35,7 @@ Subject in Context - ALMOST DONE
 	- Relating Debugging/Programming  - DONE
 		- with an intelligent agent watching traces - done
 
-	- Blending Patterns (hybrid) - [DOING in future app]
+	- Blending Patterns (hybrid) - [left to do in future app]
 		- Conceptors - pitched in Applications
 		- Texture and Content - pitched in Applications
 
@@ -55,25 +43,28 @@ Subject in Context - ALMOST DONE
 Experiments Comparisons
 
 	- Analysis of Results (4 points)
-		- local patterns emulation 
-		- trend patterns
-		- good abstraction
-		- error cumulation
+		- local patterns emulation - done
+		- trend patterns - done
+		- good abstraction - done
+		- error cumulation - done
 	- The 4 points of analysis - done
 	- Experiments from other papers
 		- NTM,DNC comparison - done
 		- PtrNet,RPWNet comparison - done
-		- basic problem comparison
+		- basic problem comparison	
+	- Explain Table with results - done
 
-	LEFT TODOs
-
-	- Final overall accuracy to Trace Generator Experiment
-	- Evaluation of SIP (next swap acc vs overall vs order at end)
-	- Explain Table with results
+	Highlights & Conclusions
+	- C left 2 comments in conclusions - DONE
+	- Highlight exactly the steps in the proposal - DONE
+	- Conclusions need to show added value to the field - DONE
+	- Conclusions should be relevant and convincing - DONE
 	
 
 For some other time
 
+	- Final exact overall accuracy to Trace Generator Experiment
+	- Evaluation of SIP (next swap acc vs overall vs order at end)
 	- Why the problem is so hard (in increasing order, an analysis)
 		- comparison operator
 		- sum aggregator
@@ -82,13 +73,6 @@ For some other time
 		- recognize
 		- detect
 		- behaving like a sorting algorithm
-
-Highlights & Conclusions
-	- C left 2 comments in conclusions - DONE
-	- Highlight exactly the steps in the proposal - DONE
-	- Conclusions need to show added value to the field - DONE
-	- Conclusions should be relevant and convincing - DONE
-	
 
 TODOs
 ---------------
@@ -106,9 +90,9 @@ TODOs
 - work on highlights - 2h/2h - DONE
 - finish answers (make blue, yellow and red text in Answer GD) - 2h/2h - DONE
 
-- experimental part /2h
+- experimental part 2h/2h
 
-Total: 22h/24h (after plan made and first revision 2 weeks, currently in second revision third week)
+Total: 24h/24h (after plan made and first revision 2 weeks, currently in second revision third week)
 
 
 Neural Program vs. Cellular Automata - started in graphical review, discussed in related work
