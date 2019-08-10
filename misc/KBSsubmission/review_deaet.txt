@@ -25,7 +25,7 @@ SPECIAL ISSUE ON: New Innovations in Machine Learning and Software Science (NEML
 Bipin
 ---------------
 Abstract - DONE
-Goal - C left 2 comments in introduction, B addressed
+Goal - DONE
 Narrative
 
 Catalin
@@ -39,35 +39,41 @@ Subject in Context - ALMOST DONE
 		- Program Induction Background section in Overleaf
 
 	- Dynamics of Complex Behavior - DONE
-		- Cellular Automata - done, decorator 1
+		- Cellular Automata - done
 		- Finite State Machines - not done, check Turing Rnn paper
-		- Turing Complete RNNs - pitched in Related work, decorator 3
-		- Conceptors - ptiched in Related work, decorator 3
+		- Turing Complete RNNs - pitched in Related work
+		- Conceptors - ptiched in Related work
 
 	- Relating Debugging/Programming  - DONE
-		- with an intelligent agent watching traces - done , decorator 2
+		- with an intelligent agent watching traces - done
 
-	- Blending Patterns (hybrid) - [DOING in future app, decorator 2]
-		- Conceptors - pitched in Applications, decorator 2,
-		- Texture and Content - pitched in Applications, decorator 2
+	- Blending Patterns (hybrid) - [DOING in future app]
+		- Conceptors - pitched in Applications
+		- Texture and Content - pitched in Applications
 
 
 Experiments Comparisons
 
-	- Analysis of Results (4 points) - decorator 4
-		- local patterns emulation - highlights
-		- trend patterns - highlights
-		- good abstraction - learning that it's only one swap - done
-		- error cumulation - main idea
+	- Analysis of Results (4 points)
+		- local patterns emulation 
+		- trend patterns
+		- good abstraction
+		- error cumulation
+	- The 4 points of analysis - done
 	- Experiments from other papers
-		- NTM,DNC comparison
-		- PtrNet,RPWNet comparison
+		- NTM,DNC comparison - done
+		- PtrNet,RPWNet comparison - done
 		- basic problem comparison
+
+	LEFT TODOs
+
 	- Final overall accuracy to Trace Generator Experiment
 	- Evaluation of SIP (next swap acc vs overall vs order at end)
 	- Explain Table with results
-		- 
-	- The 4 points of analysis - almost done
+	
+
+For some other time
+
 	- Why the problem is so hard (in increasing order, an analysis)
 		- comparison operator
 		- sum aggregator
@@ -80,9 +86,8 @@ Experiments Comparisons
 Highlights & Conclusions
 	- C left 2 comments in conclusions - DONE
 	- Highlight exactly the steps in the proposal - DONE
-
-	- Conclusions need to show added value to the field
-	- Conclusions should be relevant and convincing
+	- Conclusions need to show added value to the field - DONE
+	- Conclusions should be relevant and convincing - DONE
 	
 
 TODOs
@@ -92,16 +97,18 @@ TODOs
 - address your own feedback - 2h
 - work on conclusions - 4h/4h
 - re-read bibliography - 2h/2h
-- re-read end-to-end tatatatam
+- re-read end-to-end tatatatam 2h/2h
 
-- integrate Program Induction part - 1h/2h - DONE
+- integrate Program Induction part - 2h/2h - DONE
 
 - finished state of the art - DONE
 - subject in context (4h/4h) - DONE
 - work on highlights - 2h/2h - DONE
 - finish answers (make blue, yellow and red text in Answer GD) - 2h/2h - DONE
 
-Total: 19h/22h (after plan made and first revision 2 weeks, currently in second revision third week)
+- experimental part /2h
+
+Total: 22h/24h (after plan made and first revision 2 weeks, currently in second revision third week)
 
 
 Neural Program vs. Cellular Automata - started in graphical review, discussed in related work
