@@ -1,0 +1,21 @@
+0. Overview
+
+1.A What is program induction?
+1.B The ability to generate, replicate or infer code using a computer.
+
+2. The Plan
+2.A NOW: Write programs for computer to execute
+2.B RESEARCH: Use data to develop models for writing programs
+2.C DREAM: Let the computer write and execute its own program
+
+3.A Example: Data from Star Trek sometimes writes programs to compute various results and subroutines for specific behavior.
+
+3.B As follow-up, we can imagine that in order to achieve this task (100%) we would need machines capable of thinking, however...
+
+THIS IS WHAT WE CAN DO TODAY
+
+4. Chapters
+
+4.A Frameworks for applications (program induction)
+4.B Machine learning overview
+4.C Tools for solving such problems (tensorflow, models)
