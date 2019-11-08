@@ -22,37 +22,37 @@ Computer Vision
 
 Train with images to infer image properties:
 
-- hand-written digit recognition
-- object detection
-- segmentation
+- T1.hand-written digit recognition
+- T2.object detection
+- T3.segmentation
 
 Natural Language Processing
 
 Train with text to infer text properties
 
-- sentiment analysis
-- spam detection
-- translation
+- T4.spam detection
+- T5.sentiment analysis
+- T6.translation
 
 Program Induction
 
 Train with code/IO pairs to infer code/IO pairs
 
-- program synthesis
-- neural programming
-- software applications:
+- T7.program synthesis
+- T8.neural programming
+- T9.software applications:
 	- defect prediction
 	- semantics extraction, grouping
 	- target areas
 
 Models and Tools
 
-Multi-layer perceptron
-Gradient descent
-Loss functions
-Activations
-Convolutions
-Recurrences
+M1.Multi-layer perceptron
+M2.Gradient descent
+M3.Loss functions
+M4.Activations
+M5.Convolutions
+M6.Recurrences
 
 4.B Frameworks for applications (program induction)
 
