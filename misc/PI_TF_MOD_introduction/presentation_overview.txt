@@ -16,6 +16,48 @@ THIS IS WHAT WE CAN DO TODAY
 
 4. Chapters
 
-4.A Frameworks for applications (program induction)
-4.B Machine learning overview
+4.A Machine learning overview
+
+Computer Vision
+
+Train with images to infer image properties:
+
+- hand-written digit recognition
+- object detection
+- segmentation
+
+Natural Language Processing
+
+Train with text to infer text properties
+
+- sentiment analysis
+- spam detection
+- translation
+
+Program Induction
+
+Train with code/IO pairs to infer code/IO pairs
+
+- program synthesis
+- neural programming
+- software applications:
+	- defect prediction
+	- semantics extraction, grouping
+	- target areas
+
+Models and Tools
+
+Multi-layer perceptron
+Gradient descent
+Loss functions
+Activations
+Convolutions
+Recurrences
+
+4.B Frameworks for applications (program induction)
+
+Present some papers
+
 4.C Tools for solving such problems (tensorflow, models)
+
+Present some models
