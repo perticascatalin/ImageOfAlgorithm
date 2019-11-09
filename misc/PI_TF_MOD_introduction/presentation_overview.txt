@@ -80,3 +80,10 @@ M3. LSTM
 Down to here 25 topics => 3.6 minutes on average per topic
 
 TEST: how much can you write/present for each topic in 3.6 mins, then adjust accordingly
+
+Plan for:
+10h running nn programs
+4h writing presentation
+2h making the test
+3h whatever
+2h presentation
