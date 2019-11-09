@@ -45,19 +45,38 @@ Train with code/IO pairs to infer code/IO pairs
 	- semantics extraction, grouping
 	- target areas
 
-Models and Tools
+======================
+Down to here 10 topics
 
-M1.Multi-layer perceptron
-M2.Gradient descent
-M3.Loss functions
-M4.Activations
-M5.Convolutions
-M6.Recurrences
+Models and Tools (Concepts)
+
+C1.Multi-layer perceptron
+C2.Gradient descent
+C3.Loss functions
+C4.Activations
+C5.Convolutions
+C6.Recurrences
 
 4.B Frameworks for applications (program induction)
 
 Present some papers
 
+P1. DeepCoder
+P2. Aster Project
+P3. The one with program tree expansion
+P4. Pix2Code
+P5. Stockholm Project
+P6. The one with spec to code
+
 4.C Tools for solving such problems (tensorflow, models)
 
-Present some models
+Present some models (brief theory, tensorflow/keras implementation)
+
+M1. MLP
+M2. CNN
+M3. LSTM
+
+======================
+Down to here 25 topics => 3.6 minutes on average per topic
+
+TEST: how much can you write/present for each topic in 3.6 mins, then adjust accordingly
