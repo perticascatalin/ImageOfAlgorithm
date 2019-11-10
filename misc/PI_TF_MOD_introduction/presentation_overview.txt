@@ -82,6 +82,12 @@ A8. The one with differential memory
 Present some models (brief theory, tensorflow/keras implementation)
 
 M1. MLP
+	- formula, layers
+	- input
+	- Wx + b
+	- activation
+	- output
+	- fully connected (dense)
 M2. CNN
 M3. LSTM
 

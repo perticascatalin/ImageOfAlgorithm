@@ -24,6 +24,8 @@ include tensorflow as tf
 num_steps = 1000
 </code></pre>
 
+Python syntax highlight:
+
 ```python
 include tensorflow as tf
 num_steps = 1000
