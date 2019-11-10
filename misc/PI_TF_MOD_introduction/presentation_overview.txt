@@ -92,7 +92,8 @@ M2. CNN
 M3. LSTM
 
 ======================
-Down to here 26 topics => ~3.5 minutes on average per topic
+By topics: Down to here 26 topics => ~3.5 minutes on average per topic
+6 section strategy => 15 min/section (2.3 topics/section)
 
 TEST: how much can you write/present for each topic in 3.5 mins, then adjust accordingly
 
