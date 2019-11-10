@@ -38,6 +38,32 @@ s = "Python syntax highlighting"
 print s
 ```
 
+## Models
+
+### MLP
+
+#### Formula/Theory
+
+`activ(Wx + b) -> y`
+
+#### TF code walkthrough
+
+##### Defining a Layer
+
+```python
+def network_layer(input_nodes, output_nodes):
+	layer = {
+		'weights': tf.Variable(tf.random_normal([input_nodes, output_nodes])),
+		'biases': tf.Variable(tf.random_normal([output_nodes]))
+	}
+	return layer
+```
+
+To explain:
+
+- `tf.Variable`
+- `tf.random_normal`
+
 ## Challenges
 
 - Finding meaningful program representations which can be
