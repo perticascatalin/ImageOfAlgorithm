@@ -54,8 +54,9 @@ C1.Multi-layer perceptron
 C2.Gradient descent
 C3.Loss functions
 C4.Activations
-C5.Convolutions
-C6.Recurrences
+C5.Backpropagation
+C6.Convolutions
+C7.Recurrences
 
 4.B Frameworks for applications (program induction)
 
@@ -81,13 +82,13 @@ M2. CNN
 M3. LSTM
 
 ======================
-Down to here 25 topics => 3.6 minutes on average per topic
+Down to here 26 topics => ~3.5 minutes on average per topic
 
-TEST: how much can you write/present for each topic in 3.6 mins, then adjust accordingly
+TEST: how much can you write/present for each topic in 3.5 mins, then adjust accordingly
 
 Plan for:
 10h running nn programs
 4h writing presentation
 2h making the test
-3h whatever
+2h whatever
 2h presentation
