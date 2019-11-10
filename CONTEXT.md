@@ -148,3 +148,7 @@ learned statistically
 - Embedding together different types of representations
 - Modelling the cognitive patterns which enable code
 generation
+
+## 6. Interesting Subjects
+
+https://arxiv.org/abs/1910.07291
