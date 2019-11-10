@@ -84,14 +84,47 @@ def network_model(data, layer_sizes):
   output = tf.add(tf.matmul(activations[-1], output_layer['weights']), output_layer['biases'])
   return output
 ```
-=======
-TOTAL: 24 lines of code
 
 To explain:
 
 - `tf.add`
 - `tf.matmul`
 - `tf.nn.relu`
+
+##### 3. Defining a Training Procedure
+
+```python
+def network_train(x, layer_sizes):
+  # Hypothesis
+  prediction = network_model(x, layer_sizes)
+  # Loss/Cost Function
+  cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(logits = prediction, labels = y_))
+  # Optimization Function (Gradient Descent)
+  optimizer = tf.train.AdamOptimizer().minimize(cost)
+  obtained_accuracy = 0.0
+  # Launch tensorflow session
+  with tf.Session() as sess:
+    sess.run(tf.global_variables_initializer())
+    for epoch in range(n_epochs):
+      epoch_cost = 0
+      for _ in range(num_examples/batch_size):
+        # Perform gradient descent in batches (Memory Consumption reasons)
+        batch_x, batch_y = next_batch(batch_size)
+        _, batch_cost = sess.run([optimizer, cost], feed_dict = {x: batch_x, y_: batch_y})
+        epoch_cost += batch_cost
+      print ('Epoch', epoch, 'completed out of', n_epochs, 'cost:', epoch_cost)
+    correct = tf.equal(tf.argmax(prediction,1), tf.argmax(y_,1))
+    accuracy = tf.reduce_mean(tf.cast(correct, 'float'))
+    obtained_accuracy = accuracy.eval({x:validation_samples, y_:validation_labels})
+    print ('Accuracy:', obtained_accuracy)
+  return obtained_accuracy
+```
+
+=======
+24 lines of code (1,2)
+24 lines of code (3)
+TOTAL: 48
+
 
 ## 4. Program induction applications
 
