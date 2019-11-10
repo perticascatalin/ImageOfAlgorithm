@@ -120,10 +120,23 @@ def network_train(x, layer_sizes):
   return obtained_accuracy
 ```
 
+To explain:
+
+- `tf.Session`, `sess.run`
+- `tf.reduce_mean`
+- `tf.equal`
+- `tf.argmax`
+- `tf.cast`
+- `eval`
+- `tf.nn.softmax_cross_entropy_with_logits`
+- `tf.train.AdamOptimizer().minimize(cost)`
+- `next_batch(batch_size)`
+
 =======
 24 lines of code (1,2)
 24 lines of code (3)
-TOTAL: 48
+14 operations
+TOTAL: 48 (lines), 14 (operations)
 
 
 ## 4. Program induction applications
