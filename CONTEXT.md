@@ -24,6 +24,18 @@ include tensorflow as tf
 num_steps = 1000
 </code></pre>
 
+```python
+include tensorflow as tf
+num_steps = 1000
+def foo():
+	a = 2
+	b = 3
+	return a + b
+s = foo()
+s = "Python syntax highlighting"
+print s
+```
+
 ## Challenges
 
 - Finding meaningful program representations which can be
