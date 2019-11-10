@@ -57,7 +57,7 @@ def network_layer(input_nodes, output_nodes):
     'weights': tf.Variable(tf.random_normal([input_nodes, output_nodes])),
     'biases': tf.Variable(tf.random_normal([output_nodes]))
   }
-	return layer
+  return layer
 ```
 
 To explain:
@@ -68,6 +68,7 @@ To explain:
 ##### 2. Defining a Model
 
 ```python
+# Create Computation Graph
 def network_model(data, layer_sizes):
   # Network Architecture
   hidden_layers = []
@@ -75,7 +76,6 @@ def network_model(data, layer_sizes):
   for i in range(1, len(layer_sizes)):
     hidden_layers.append(network_layer(layer_sizes[i-1], layer_sizes[i]))
   output_layer = network_layer(layer_sizes[-1], n_classes)
-
   # Computation Pipeline
   activations = []
   activations.append(tf.nn.relu(tf.add(tf.matmul(data, hidden_layers[0]['weights']), hidden_layers[0]['biases'])))
@@ -84,6 +84,8 @@ def network_model(data, layer_sizes):
   output = tf.add(tf.matmul(activations[-1], output_layer['weights']), output_layer['biases'])
   return output
 ```
+=======
+TOTAL: 24 lines of code
 
 To explain:
 
