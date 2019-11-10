@@ -62,7 +62,11 @@ C6.Recurrences
 Present some papers
 
 P1. DeepCoder
-P2. Aster Project
+P2. Aster Project 
+	- abstract syntax trees
+	- reverse polish notation
+	- encoding variable names
+	- author, task, project, bug detection
 P3. The one with program tree expansion
 P4. Pix2Code
 P5. Stockholm Project
