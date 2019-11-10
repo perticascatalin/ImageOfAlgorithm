@@ -73,6 +73,10 @@ P4. Pix2Code
 P5. Stockholm Project
 P6. The one with spec to code
 
+=============== (ADVANCED)
+A7. The one with visual objects relations
+A8. The one with differential memory
+
 4.C Tools for solving such problems (tensorflow, models)
 
 Present some models (brief theory, tensorflow/keras implementation)
