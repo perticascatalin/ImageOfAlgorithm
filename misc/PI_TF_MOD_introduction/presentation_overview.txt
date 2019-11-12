@@ -98,8 +98,8 @@ By topics: Down to here 26 topics => ~3.5 minutes on average per topic
 TEST: how much can you write/present for each topic in 3.5 mins, then adjust accordingly
 
 Plan for:
-10h running nn programs
-4h writing presentation
-2h making the test
-2h whatever
-2h presentation
+10h running nn programs (8 left)
+4h writing presentation (4 left)
+2h making the test (2 left)
+2h whatever (1.5 left)
+2h presentation (1.5 left)
