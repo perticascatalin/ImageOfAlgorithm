@@ -151,6 +151,15 @@ TOTAL: 48 (lines), 14 (operations)
 
 ### 4.1 Deep Coder
 
+**Idea:** Use inference power of deep learning models to speed up search of target program. The target program is supposed to satisfy a list of input-output pairs.
+
+**Walkthrough:**
+  - specify domain specific language
+  - encoding input-output pairs (multi-label multi-class problem, probability of attribute)
+  - map input/output pairs to program attributes
+  - narrow program search using predicted program attributes
+  - program search through DFS on a grammer
+
 |Problem Samples|Program Attributes|
 |:----:|:--:|
 |![problem](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/problem_samples.png)|![program](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/program_attributes.png)|
