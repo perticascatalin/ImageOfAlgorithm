@@ -2,6 +2,8 @@
 #### Tensorflow & Models
 #### TakeOffLabs Tech Talk (Nov 22, 2019)
 
+POSTER
+
 ## 1. Presentation overview
 
 WHAT?
@@ -16,12 +18,16 @@ HOW?
 
 ![data](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/data.jpg)
 
+HIGHLIGHTS
+
 OVERVIEW OF PRESENTATION
 
 - Part 2: Machine Learning Overview (types of problems in PI, CV and NLP)
 - Part 3: Tensorflow Intro & Models
 - Part 4: Program Induction Applications
 - Parts 5, 6, 7: Further Ideas
+
+*down to here should take around 10 minutes*
 
 ## 2. Problems solved using machine learning
 
@@ -51,6 +57,8 @@ Train with code/IO pairs to infer code/IO pairs
   - defect prediction
   - semantics extraction, grouping
   - target areas
+
+*down to here we have a total of 30 minutes*
 
 ## 3. Models
 
@@ -159,6 +167,8 @@ To explain:
 14 operations
 TOTAL: 48 (lines), 14 (operations)
 
+*down to here we have a total of 1 hour*
+
 ## 4. Program induction applications
 
 ### 4.1 Deep Coder
@@ -180,6 +190,8 @@ Link: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/main.p
 |Problem Samples|Program Attributes|
 
 ![deep coder](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/deep_coder.png)
+
+*down to here we have a total of 1 hour and a half*
 
 ## 5. Challenges
 
