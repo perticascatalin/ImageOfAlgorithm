@@ -107,5 +107,5 @@ Plan for:
 10h running nn programs (8 left)
 4h writing presentation (4 left)
 2h taking the test (2 left)
-2h compose presentation (1h left)
+2h compose presentation DONE
 2h whatever DONE

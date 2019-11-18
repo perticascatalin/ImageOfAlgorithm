@@ -14,6 +14,8 @@ HOW?
 - **RESEARCH**: Use data to develop models for writing programs
 - **DREAM**: Let the computer write and execute its own program
 
+![data](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/data.jpg)
+
 OVERVIEW OF PRESENTATION
 
 - Part 2: Machine Learning Overview (types of problems in PI, CV and NLP)
