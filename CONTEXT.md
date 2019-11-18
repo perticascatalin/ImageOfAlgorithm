@@ -1,7 +1,8 @@
 # Introduction to Program Induction
 #### Tensorflow & Models
+#### TakeOffLabs Tech Talk (Nov 22, 2019)
 
-## 1. Introduction to introduction
+## 1. Presentation overview
 
 WHAT?
 
@@ -15,36 +16,41 @@ HOW?
 
 OVERVIEW OF PRESENTATION
 
-- Part 2: Machine Learning Overview (PI, CV and NLP)
+- Part 2: Machine Learning Overview (types of problems in PI, CV and NLP)
 - Part 3: Tensorflow Intro & Models
 - Part 4: Program Induction Applications
 - Parts 5, 6, 7: Further Ideas
 
-## 2. Tests
+## 2. Problems solved using machine learning
 
-	> This is a blockquote
-	> inside a list item.
-	
-<p>This is a normal paragraph:</p>
+Computer Vision
 
-<pre><code># Sample program
-include tensorflow as tf
-num_steps = 1000
-</code></pre>
+Train with images to infer image properties:
 
-Python syntax highlight:
+- T1.hand-written digit recognition
+- T2.object detection
+- T3.segmentation
 
-```python
-include tensorflow as tf
-num_steps = 1000
-def foo():
-  a = 2
-  b = 3
-  return a + b
-s = foo()
-s = "Python syntax highlighting"
-print s
-```
+Natural Language Processing
+
+Train with text to infer text properties
+
+- T4.spam detection
+- T5.sentiment analysis
+- T6.translation
+
+Program Induction
+
+Train with code/IO pairs to infer code/IO pairs
+
+- T7.program synthesis
+- T8.neural programming
+- T9.software applications:
+  - defect prediction
+  - semantics extraction, grouping
+  - target areas
+
+## 3. Models
 
 ### Tensorflow
 
@@ -52,8 +58,6 @@ print s
 |:----:|:--:|
 |![tensor](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/tensor.png)|![flow](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/flow.png)|
 |Computational Units|Computational Graphs|
-
-## 3. Models
 
 ### MLP
 
@@ -152,7 +156,6 @@ To explain:
 24 lines of code (3)
 14 operations
 TOTAL: 48 (lines), 14 (operations)
-
 
 ## 4. Program induction applications
 
