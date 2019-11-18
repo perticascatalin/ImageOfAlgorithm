@@ -1,4 +1,5 @@
-# Introduction to Program Induction (Tensorflow & Models)
+# Introduction to Program Induction
+#### Tensorflow & Models
 
 ## 1. Introduction to introduction
 
@@ -55,7 +56,7 @@ print s
 
 #### TF code walkthrough
 
-##### 1. Defining a Layer
+##### 3.1 Defining a Layer
 
 ```python
 # Initialize Learnable Values
@@ -72,7 +73,7 @@ To explain:
 - `tf.Variable`
 - `tf.random_normal`
 
-##### 2. Defining a Model
+##### 2.2 Defining a Model
 
 ```python
 # Create Computation Graph
@@ -98,7 +99,7 @@ To explain:
 - `tf.matmul`
 - `tf.nn.relu`
 
-##### 3. Defining a Training Procedure
+##### 3.3 Defining a Training Procedure
 
 ```python
 def network_train(x, layer_sizes):
@@ -147,6 +148,13 @@ TOTAL: 48 (lines), 14 (operations)
 
 
 ## 4. Program induction applications
+
+### 4.1 Deep Coder
+
+|Problem Samples|Program Attributes|
+|:----:|:--:|
+|![problem](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/problem_samples.png)|![program](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/program_attributes.png)|
+|Problem Samples|Program Attributes|
 
 ## 5. Challenges
 
