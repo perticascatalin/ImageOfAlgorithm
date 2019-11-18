@@ -62,12 +62,18 @@ C7.Recurrences
 
 Present some papers
 
-P1. DeepCoder
+P1. DeepCoder (search speed-up using inference of program attributes)
+	- specify domain specific language
+	- encoding input-output pairs
+	- map input/output pairs to program attributes
+	- narrow program search using predicted program attributes
+
 P2. Aster Project 
 	- abstract syntax trees
 	- reverse polish notation
 	- encoding variable names
 	- author, task, project, bug detection
+
 P3. The one with program tree expansion
 P4. Pix2Code
 P5. Stockholm Project
@@ -100,6 +106,6 @@ TEST: how much can you write/present for each topic in 3.5 mins, then adjust acc
 Plan for:
 10h running nn programs (8 left)
 4h writing presentation (4 left)
-2h making the test (2 left)
-2h whatever (1.5 left)
-2h presentation (1.5 left)
+2h taking the test (2 left)
+2h presentation (2 left)
+2h whatever (1 left)
