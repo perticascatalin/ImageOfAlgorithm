@@ -13,6 +13,13 @@ HOW?
 - **RESEARCH**: Use data to develop models for writing programs
 - **DREAM**: Let the computer write and execute its own program
 
+OVERVIEW OF PRESENTATION
+
+- Part 2: Machine Learning Overview (PI, CV and NLP)
+- Part 3: Tensorflow Intro & Models
+- Part 4: Program Induction Applications
+- Parts 5, 6, 7: Further Ideas
+
 ## 2. Tests
 
 	> This is a blockquote

@@ -81,7 +81,7 @@ P6. The one with spec to code
 
 =============== (ADVANCED)
 A7. The one with visual objects relations
-A8. The one with differential memory
+A8. The one with differentiable memory
 
 4.C Tools for solving such problems (tensorflow, models)
 
@@ -107,5 +107,5 @@ Plan for:
 10h running nn programs (8 left)
 4h writing presentation (4 left)
 2h taking the test (2 left)
-2h compose presentation (1h30 left)
+2h compose presentation (1h left)
 2h whatever DONE
