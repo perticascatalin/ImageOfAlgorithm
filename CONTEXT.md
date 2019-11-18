@@ -151,6 +151,8 @@ TOTAL: 48 (lines), 14 (operations)
 
 ### 4.1 Deep Coder
 
+Link: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/main.pdf
+
 **Idea:** Use inference power of deep learning models to speed up search of target program. The target program is supposed to satisfy a list of input-output pairs.
 
 **Walkthrough:**
@@ -164,6 +166,8 @@ TOTAL: 48 (lines), 14 (operations)
 |:----:|:--:|
 |![problem](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/problem_samples.png)|![program](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/program_attributes.png)|
 |Problem Samples|Program Attributes|
+
+![deep coder](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/deep_coder.png)
 
 ## 5. Challenges
 
