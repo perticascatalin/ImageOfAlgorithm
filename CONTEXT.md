@@ -204,6 +204,8 @@ Link: https://arxiv.org/pdf/1705.07962.pdf
 
 ![pix2code](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/pix2code.png)
 
+![gui](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/gui.png)
+
 *down to here we have a total of 1 hour and a half*
 
 ## 5. Challenges
