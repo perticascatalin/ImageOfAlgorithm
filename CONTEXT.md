@@ -216,4 +216,5 @@ generation
 
 ## 6. Interesting Subjects
 
-https://arxiv.org/abs/1910.07291
+Solving problems in physics: https://arxiv.org/abs/1910.07291
+Solving graph problems: https://www.gwern.net/docs/rl/2016-graves.pdf
