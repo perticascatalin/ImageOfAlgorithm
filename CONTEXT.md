@@ -191,8 +191,6 @@ Link: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/main.p
 
 ![deep coder](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/deep_coder.png)
 
-*down to here we have a total of 1 hour and a half*
-
 ### 4.2 Pix2Code
 
 Link: https://arxiv.org/pdf/1705.07962.pdf
@@ -203,6 +201,10 @@ Link: https://arxiv.org/pdf/1705.07962.pdf
   - encoder LSTM
   - encoder CNN
   - decoder LSTM
+
+![pix2code](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/pix2code.png)
+
+*down to here we have a total of 1 hour and a half*
 
 ## 5. Challenges
 
