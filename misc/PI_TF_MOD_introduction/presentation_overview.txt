@@ -74,10 +74,10 @@ P2. Aster Project
 	- encoding variable names
 	- author, task, project, bug detection
 
-P3. The one with program tree expansion
+P3. The one with program tree expansion - added
 P4. Pix2Code
 P5. Stockholm Project
-P6. The one with spec to code
+P6. The one with spec to code - added
 
 =============== (ADVANCED)
 A7. The one with visual objects relations
@@ -105,7 +105,7 @@ TEST: how much can you write/present for each topic in 3.5 mins, then adjust acc
 
 Plan for:
 10h running nn programs (8 left)
-4h writing presentation (3 left)
+4h writing presentation (2 left)
 2h taking the test (1 left)
 2h compose presentation DONE
 2h whatever DONE
