@@ -104,16 +104,54 @@ By topics: Down to here 26 topics => ~3.5 minutes on average per topic
 TEST: how much can you write/present for each topic in 3.5 mins, then adjust accordingly
 
 Plan for:
-10h running nn programs (8 left)
-4h writing presentation (2 left)
-2h taking the test (1 left)
+4h writing speech (4 left)
+2h detail presentation (2 left)
+4h writing presentation DONE
+2h running nn programs DONE
+2h taking the test DONE
 2h compose presentation DONE
 2h whatever DONE
 
 Feedback:
 - write summaries, instead of hard teaching
-- make a presentation
+- make a presentation (doing)
 - skip tensorflow (- a lot)
 - add pictures for ml overview (2 slides)
 - get to program induction
 - watch 2 min papers
+
+Side Slide (to guide narrative)
+
+Slide 1: The Journey
+
+Slide 2: Program Representation [carrying out complex calculations]
+
+Poster
+R2D2
+Code -> Data -> Code
+Big Data
+
+Slide 3: Learning to Code [creating mechanisms for complex calculations]
+
+Getting a Sense of Humour
+The Holodeck
+
+The 4 Paper Slides (finish this in 2 hours)
+
+- 2 to review (1h)
+- 2 to understand (1h)
+
+another 4 pages
+
+The Speech
+
+- write for program representation (1h write 300 words that link well)
+- write for learning to code (1h write 300 words that link well)
+- links, resources, conclusions
+- tensorflow & models
+
+2 pages tensorflow and models
+1 page resources
+
+In total 14 pages
+With an average of 2 minutes per page, you will need intro (what program induction is) + 600 words for introductory part.
