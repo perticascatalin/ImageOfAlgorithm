@@ -175,12 +175,13 @@ another 4 pages
 
 The Speech
 
+- write program induction idea (1h, done)
 - write for program representation (1h write 300 words that link well)
 - write for learning to code (1h write 300 words that link well)
-- links, resources, conclusions
-- tensorflow & models
+- tensorflow & models (1h)
+- links, resources, conclusions ...
 
-1 page program induction idea (45)
+1 page program induction idea DONE
 1 page tensorflow and models
 1 page resources
 
