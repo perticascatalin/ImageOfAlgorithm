@@ -106,6 +106,14 @@ TEST: how much can you write/present for each topic in 3.5 mins, then adjust acc
 Plan for:
 10h running nn programs (8 left)
 4h writing presentation (3 left)
-2h taking the test (2 left)
+2h taking the test (1 left)
 2h compose presentation DONE
 2h whatever DONE
+
+Feedback:
+- write summaries, instead of hard teaching
+- make a presentation
+- skip tensorflow (- a lot)
+- add pictures for ml overview (2 slides)
+- get to program induction
+- watch 2 min papers
