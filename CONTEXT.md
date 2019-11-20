@@ -29,7 +29,7 @@ OVERVIEW OF PRESENTATION
 
 *down to here should take around 10 minutes*
 
-## 2. Problems solved using machine learning
+## 2. Problems solved using machine learning (add pictures, input -> output)
 
 Computer Vision
 
@@ -53,7 +53,7 @@ Train with code/IO pairs to infer code/IO pairs
 
 - T7.program synthesis
 - T8.neural programming
-- T9.software applications:
+- T9.software applications (understand already written software):
   - defect prediction
   - semantics extraction, grouping
   - target areas
@@ -62,7 +62,7 @@ Train with code/IO pairs to infer code/IO pairs
 
 ## 3. Models
 
-### Tensorflow
+### Tensorflow (neural networks in browser)
 
 |Tensor|Flow|
 |:----:|:--:|
@@ -160,6 +160,10 @@ To explain:
 - `tf.nn.softmax_cross_entropy_with_logits`
 - `tf.train.AdamOptimizer().minimize(cost)`
 - `next_batch(batch_size)`
+
+To explain better: 
+- optimizer and gradient descent
+- what a session is
 
 =======
 24 lines of code (1,2)
