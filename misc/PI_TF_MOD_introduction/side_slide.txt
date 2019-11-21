@@ -1,0 +1,113 @@
+Side Slide (to guide narrative)
+===============
+
+Slide 1: The Journey
+
+In acest talk o sa povestesc pe scurt despre program induction,
+un subdomeniu al inteligentei artificiale care cuprinde subiecte
+din sfera automatizarii scrierii de cod.
+
+Adica: aplicatii ale statisticii in software,
+dar si moduri de a intelege retelele neuronale ca un mijloc de computatie.
+
+Prin asta ma refer la abilitatea unui model adaptabil de a infera din date 
+calculele pe care ar trebui sa le execute. 
+In acest fel, un model poate fi vazut ca un program.
+
+NEXT SLIDE
+===============
+
+Inter-slide
+
+Ca si exemplu introductiv, ne putem gandi la o metoda necunoscuta care are un input, un output si o serie de instructiuni. Avand la dispozitie doar un set de inputs & outputs, exista posibilitatea de a genera secventa de instructiuni care mapeaza corect inputs pe outputs (si care generalizeaza)?
+
+Inter-slide
+
+Latent induction vs. program synthesis
+
+NEXT SLIDE
+===============
+
+Slide 2: Program Representation [carrying out complex calculations]
+
+Ca sa putem raspunde la intrebare, trebuie sa vedem mai exact cum reprezentam un program in date/informatie. 
+
+Normally, a program handles data, but in our case, the program becomes the data...
+for a computational agent
+
+Poster
+R2D2: can perform very complex computations, but has a hard time communicating. Program are similar in this fashion: easy to run them on big data, but harder to extract meaning from them.
+Code -> Data -> Code
+Big Data
+
+The agent view: un agent prelucreaza cod.
+Exemplu: crawling Github.
+1. Gasesti zona unde schimbi comportament
+2. Adaugi functie noua
+3. Testezi executia separat
+4. Testezi executia global...
+
+The levels of abstraction view: cod sursa vs. executie
+Cod sursa: tree vs. sequence (abstract syntax tree vs. string)
+Sorting Algorithms
+Cellular Automata
+Finite State Machines
+Neural Network
+
+The encoding view: conceptual vs. granular
+Retea neuronala: view vs. implementation
+
+Takeaway:
+
+Different representations, same idea: but how to optimize conveying the information/meaning?
+Different procedures, same results: do we want to imitate or just get to same end result?
+Simple constructs, complex behavior.
+Syntax vs. semantics.
+
+NEXT SLIDE
+===============
+
+Slide 3: Learning to Code [creating mechanisms for complex calculations]
+
+Ok, but programming is not just about applying and deriving rules from numbers. In the case of program induction, we need to interface our specifications, such that their meaning can be conveyed to the agent writing the code.
+
+So then maybe solving program induction is not only a numerical task, but also a cognitive one. But do we need general AI to solve it?
+
+You all know Data from Star Trek.
+Data: Getting a Sense of Humour. The Holodeck. Jokes vs. real situation (getting back to data representation).
+
+So how does creating programs work at a cognitive level? Imagine, design, encode, execute.
+
+What are the abilities required to perform such an act?
+
+Niste studii cognitive mai vechi folosesc urmatorul model bazat pe invatarea in primele etape ale vietii. In prima etapa dezvoltam reflexe (move and feel). Mai tarziu gandirea simbolica (labels to situations and objects)....
+
+Concepts to concrete & Abstract reasoning are required to write code (Design and Encode). However, humans require at least 7 years to start developing those.
+
+Takeaway: Data has the ability to write his own sub-routines and the incorporate them in his behavior.
+
+NEXT SLIDE
+================
+
+The 4 Paper Slides (finish this in 2 hours)
+
+- 2 to review
+- 2 to understand
+
+another 2 pages DONE
+
+The Speech
+
+- write program induction idea (1h, done)
+- write for program representation (1h write 300 words that link well, done)
+- write for learning to code (1h write 300 words that link well, done)
+- tensorflow & models (1h, done)
+- links, resources, conclusions ...
+
+1 page program induction idea DONE
+1 page tensorflow and models DONE
+1 page resources DONE
+1 page challenges DONE
+
+In total 14 pages
+With an average of 2 minutes per page, you will need intro (what program induction is) + 600 words for introductory part.
