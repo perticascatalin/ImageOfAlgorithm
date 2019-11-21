@@ -188,7 +188,7 @@ Link: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/main.p
   - encoding input-output pairs (multi-label multi-class problem, probability of attribute)
   - map input/output pairs to program attributes
   - narrow program search using predicted program attributes
-  - program search through DFS on a grammer
+  - program search through DFS on a grammar
 
 |Problem Samples|Program Attributes|
 |:----:|:--:|
@@ -207,6 +207,7 @@ Link: https://arxiv.org/pdf/1705.07962.pdf
   - encoder LSTM
   - encoder CNN
   - decoder LSTM
+  - end-to-end learning
 
 ![pix2code](https://raw.githubusercontent.com/perticascatalin/ImageOfAlgorithm/master/misc/images/pix2code.png)
 
