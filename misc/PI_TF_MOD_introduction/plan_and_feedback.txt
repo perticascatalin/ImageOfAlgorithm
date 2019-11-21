@@ -1,0 +1,19 @@
+Feedback:
+
+- write summaries, instead of hard teaching
+- make a presentation (done)
+- skip tensorflow (- a lot, did)
+- add pictures for ml overview (2 slides)
+- get to program induction
+- watch 2 min papers
+
+Plan for:
+
+2h detail presentation (2 left) 14:30 - 16:30
+
+4h writing speech DONE
+4h writing presentation DONE
+2h running nn programs DONE
+2h taking the test DONE
+2h compose presentation DONE
+2h whatever DONE
