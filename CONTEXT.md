@@ -1,6 +1,5 @@
 # Introduction to Program Induction
 #### Tensorflow & Models
-#### TakeOffLabs Tech Talk (Nov 22, 2019)
 
 POSTER
 
