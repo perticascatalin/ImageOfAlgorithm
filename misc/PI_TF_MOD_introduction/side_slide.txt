@@ -11,7 +11,7 @@ Adica: aplicatii ale statisticii in software,
 dar si moduri de a intelege retelele neuronale ca un mijloc de computatie.
 
 Prin asta ma refer la abilitatea unui model adaptabil de a infera din date 
-calculele pe care ar trebui sa le execute. 
+calculele pe care ar trebui sa le execute.
 In acest fel, un model poate fi vazut ca un program.
 
 NEXT SLIDE
@@ -36,7 +36,7 @@ Normally, a program handles data, but in our case, the program becomes the data.
 for a computational agent
 
 Poster
-R2D2: can perform very complex computations, but has a hard time communicating. Program are similar in this fashion: easy to run them on big data, but harder to extract meaning from them.
+R2D2: can perform very complex computations, but has a hard time communicating. Programs are similar in this fashion: easy to run them on vast amounts of data, but harder to extract meaning from them.
 Code -> Data -> Code
 Big Data
 
@@ -44,14 +44,14 @@ The agent view: un agent prelucreaza cod.
 Exemplu: crawling Github.
 1. Gasesti zona unde schimbi comportament
 2. Adaugi functie noua
-3. Testezi executia separat
+3. Testezi executia izolvat
 4. Testezi executia global...
 
 The levels of abstraction view: cod sursa vs. executie
 Cod sursa: tree vs. sequence (abstract syntax tree vs. string)
 Sorting Algorithms
 Cellular Automata
-Finite State Machines
+Finite State Machines/Call Graph
 Neural Network
 
 The encoding view: conceptual vs. granular
