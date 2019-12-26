@@ -13,6 +13,13 @@
 9. Future Work and Applications
 10. Acknowledgement
 
+Steps in review (Planning):
+
+1. Fix minor and medium feedback items (1/2 done)
+2. Read suggested papers
+3. Discuss changes with co-author
+4. Restructure, more major feedback items, in any order (address each major feedback item separately)
+
 ## 2. Small Issues
 
 1. fix "of of"
@@ -27,5 +34,6 @@
 10. "The type of a new previously unseen program can be predicted", explain why is this important -> This could prove relevant in deciding what type of problem the program solves and which aspects of the input data have a higher influence on the output data of the program.
 
 ## 3. Suggested Reads
+
 
 4 greens/140
