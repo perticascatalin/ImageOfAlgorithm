@@ -1,0 +1,21 @@
+# Review
+
+## 1. Overview and Structure
+
+1. Introduction and Motivation
+2. Background on Program Induction
+3. Image of Algorithm
+4. Program Classification
+5. Pattern Detection in Sequences
+6. Algorithm Prediction and Behavior Emulation
+7. Discussion and Related Research
+8. Conclusions
+9. Future Work and Applications
+10. Acknowledgement
+
+## 2. Small Issues
+
+1. fix "of of"
+2. labels with two ":"
+
+## 3. Suggested Reads
