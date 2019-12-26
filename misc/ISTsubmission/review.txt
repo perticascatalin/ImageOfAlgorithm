@@ -17,5 +17,9 @@
 
 1. fix "of of"
 2. labels with two ":"
+3. rephrase "Array does not - the data does" ???? -> However, the input data does not have an influence on the strategy of the algorithm while reversing an array.
+4. fix "of a program - [5]" -> of a program [5]
+5. fix reference to tables 1, 5, 6 & 8
+6. fix "Heapsort in 7? What is this seven?"
 
 ## 3. Suggested Reads
