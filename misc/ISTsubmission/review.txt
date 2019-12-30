@@ -18,6 +18,8 @@ Steps in review (Planning):
 1. Fix minor and medium feedback items (1/2 done)
 2. Read suggested papers
 3. Discuss changes with co-author
+	- abstract/introduction more concise wrt to the paper overview - Bipin
+	- point out feedback wrt to the paper overview - Catalin
 4. Restructure, more major feedback items, in any order (address each major feedback item separately)
 
 ## 2. Small Issues
@@ -36,4 +38,4 @@ Steps in review (Planning):
 ## 3. Suggested Reads
 
 
-4 greens/140
+6 greens/140
