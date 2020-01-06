@@ -38,7 +38,9 @@ Steps in review (Planning):
 ## 3. Suggested Reads
 
 1. Ma, K. L. (2007). Machine learning to boost the next generation of visualization technology
+
 2. Hayes, J. H., Li, W., & Rahimi, M. (2014). Weka meets TraceLab: Toward convenient classification: Machine learning for requirements engineering problems
+
 3. F. Fittkau, S. Finke, W. Hasselbring and J. Waller, "Comparing Trace Visualizations for Program Comprehension through Controlled Experiments,"
 
 - a programmer receives a task: eg. to refactor or understand a login process
@@ -46,14 +48,35 @@ Steps in review (Planning):
 - metrics are:
 	- time spent on task (minutes)
 	- corectness of solution (points)
+- the tasks were quite interesting here
 
 4. H. N. Huang, E. Verbeek, D. German, M. Storey and M. Salois, "Atlantis: Improving the Analysis and Visualization of Large Assembly Execution Traces,"
+
 5. M. D. Shah and S. Z. Guyer, "Critical Section Investigator: Building Story Visualizations with Program Traces,"
+
+6. City Metaphor
+
+- CodeCity
+- ExplorViz
 
 ## 4. Major Issues
 
 1. Abstract & Introduction
 	- 1st page of review, blue comments - Bipin
 	- for myself, need to revise literature and define problem + show objective based on literature
+
+2. Objective	
+	- objective is to find how to model algorithms using neural networks
+	- start from the sensorimotor view (moving objects around)
+	- programs are similar to moving objects around
+	- neural networks are in fact programs (eg. recognizing a face)
+	- but these programs are not hardcoded
+	- can we use them to infer more abstract programs?
+
+## 5. Comments in Overleaf and other Ideas
+
+% Catalin C1: this sounds too abstract and vague, maybe stick to predicting program classes and future steps for sorting algorithms and other simple problems such as reversing, swapping intervals, heaps and binary search trees by observing their execution traces. - rephrase
+
+Define Experiments for Cellular Automata - practical (check notebook for some ideas)
 
 8 greens/140
