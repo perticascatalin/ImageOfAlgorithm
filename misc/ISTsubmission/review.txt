@@ -21,6 +21,9 @@ Steps in review (Planning):
 	- abstract/introduction more concise wrt to the paper overview - Bipin
 	- point out feedback wrt to the paper overview - Catalin
 4. Restructure, more major feedback items, in any order (address each major feedback item separately)
+	- so far here we have 2 major points
+	- abstract, introduction & objective for 1st reviewer
+	- link to software visualization for 2nd reviewer
 
 ## 2. Small Issues
 
@@ -56,16 +59,16 @@ Steps in review (Planning):
 
 6. City Metaphor
 
-- CodeCity
-- ExplorViz
+- CodeCity (one of cited reads)
+- ExplorViz (one of suggested reads)
 
 ## 4. Major Issues
 
-1. Abstract & Introduction
+1. Abstract & Introduction (reviewer 1)
 	- 1st page of review, blue comments - Bipin
 	- for myself, need to revise literature and define problem + show objective based on literature
 
-2. Objective	
+2. Objective (reviewer 1)
 	- objective is to find how to model algorithms using neural networks
 	- start from the sensorimotor view (moving objects around)
 	- programs are similar to moving objects around
@@ -73,10 +76,13 @@ Steps in review (Planning):
 	- but these programs are not hardcoded
 	- can we use them to infer more abstract programs?
 
+3. Link to Visualization (reviewer 2)
+	- all suggested reads go here
+
 ## 5. Comments in Overleaf and other Ideas
 
 % Catalin C1: this sounds too abstract and vague, maybe stick to predicting program classes and future steps for sorting algorithms and other simple problems such as reversing, swapping intervals, heaps and binary search trees by observing their execution traces. - rephrase
 
 Define Experiments for Cellular Automata - practical (check notebook for some ideas)
 
-8 greens/140
+10 greens/140
