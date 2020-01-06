@@ -40,6 +40,13 @@ Steps in review (Planning):
 1. Ma, K. L. (2007). Machine learning to boost the next generation of visualization technology
 2. Hayes, J. H., Li, W., & Rahimi, M. (2014). Weka meets TraceLab: Toward convenient classification: Machine learning for requirements engineering problems
 3. F. Fittkau, S. Finke, W. Hasselbring and J. Waller, "Comparing Trace Visualizations for Program Comprehension through Controlled Experiments,"
+
+- a programmer receives a task: eg. to refactor or understand a login process
+- compare 2 visualization programs
+- metrics are:
+	- time spent on task (minutes)
+	- corectness of solution (points)
+
 4. H. N. Huang, E. Verbeek, D. German, M. Storey and M. Salois, "Atlantis: Improving the Analysis and Visualization of Large Assembly Execution Traces,"
 5. M. D. Shah and S. Z. Guyer, "Critical Section Investigator: Building Story Visualizations with Program Traces,"
 
@@ -49,4 +56,4 @@ Steps in review (Planning):
 	- 1st page of review, blue comments - Bipin
 	- for myself, need to revise literature and define problem + show objective based on literature
 
-7 greens/140
+8 greens/140
