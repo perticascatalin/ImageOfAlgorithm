@@ -37,5 +37,16 @@ Steps in review (Planning):
 
 ## 3. Suggested Reads
 
+1. Ma, K. L. (2007). Machine learning to boost the next generation of visualization technology
+2. Hayes, J. H., Li, W., & Rahimi, M. (2014). Weka meets TraceLab: Toward convenient classification: Machine learning for requirements engineering problems
+3. F. Fittkau, S. Finke, W. Hasselbring and J. Waller, "Comparing Trace Visualizations for Program Comprehension through Controlled Experiments,"
+4. H. N. Huang, E. Verbeek, D. German, M. Storey and M. Salois, "Atlantis: Improving the Analysis and Visualization of Large Assembly Execution Traces,"
+5. M. D. Shah and S. Z. Guyer, "Critical Section Investigator: Building Story Visualizations with Program Traces,"
 
-6 greens/140
+## 4. Major Issues
+
+1. Abstract & Introduction
+	- 1st page of review, blue comments - Bipin
+	- for myself, need to revise literature and define problem + show objective based on literature
+
+7 greens/140
