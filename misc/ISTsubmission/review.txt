@@ -69,6 +69,9 @@ Steps in review (Planning):
 
 5. M. D. Shah and S. Z. Guyer, "Critical Section Investigator: Building Story Visualizations with Program Traces,"
 
+- detecting performance problems
+- which methods contribute to overall program's execution time
+
 6. City Metaphor
 
 - CodeCity (one of cited reads - 7)
@@ -112,4 +115,4 @@ METHOD (extension to objective)
 
 4. Catalin C2: incorporate nicely all the literature you know on computer programs and software visualization
 
-(11 greens + 2 blues) 13/140
+(12 greens + 2 blues) 14/140
