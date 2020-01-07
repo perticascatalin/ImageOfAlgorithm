@@ -1,5 +1,7 @@
 # Review
 
+Alternative title: Using Neural Networks to Detect and Emulate Execution Traces of Simple Algorithms
+
 ## 1. Overview and Structure
 
 1. Introduction and Motivation
@@ -16,16 +18,19 @@
 Steps in review (Planning):
 
 1. Fix minor and medium feedback items (1/2 done)
-2. Read suggested papers
+2. Read suggested papers (1/4 done)
 3. Discuss changes with co-author
 	- abstract/introduction more concise wrt to the paper overview - Bipin
 	- point out feedback wrt to the paper overview - Catalin
 4. Restructure, more major feedback items:
 	- address each major feedback item separately
 	- so far here we have 2 major points
-	- abstract, introduction & objective for 1st reviewer
+
+	- abstract, introduction & objective for 1st reviewer (1/4 done)
 	- link to software visualization for 2nd reviewer
-	- method part in abstract rephrasing
+
+	- method part in abstract rephrasing R1
+	- minor changes throughout the rest of the abstract
 
 ## 2. Small Issues
 
@@ -57,12 +62,21 @@ Steps in review (Planning):
 
 4. H. N. Huang, E. Verbeek, D. German, M. Storey and M. Salois, "Atlantis: Improving the Analysis and Visualization of Large Assembly Execution Traces,"
 
+- assembly traces are broadly used for identifying software vulnerabilities
+- link to paper on malware by Pascanu
+- trace start point - end point memory delta
+- query instructions in a trace
+
 5. M. D. Shah and S. Z. Guyer, "Critical Section Investigator: Building Story Visualizations with Program Traces,"
 
 6. City Metaphor
 
-- CodeCity (one of cited reads)
-- ExplorViz (one of suggested reads)
+- CodeCity (one of cited reads - 7)
+- ExplorViz (one of suggested reads - 3)
+
+7. Traces
+
+- Atlantis - assembly (one of suggested reads - 4)
 
 ## 4. Major Issues
 
@@ -83,15 +97,17 @@ Steps in review (Planning):
 
 ## 5. Comments in Overleaf and other Ideas
 
-1. % Catalin C1: this sounds too abstract and vague, maybe stick to predicting program classes and future steps for sorting algorithms and other simple problems such as reversing, swapping intervals, heaps and binary search trees by observing their execution traces. - rephrase
+1. Catalin C1: this sounds too abstract and vague, maybe stick to predicting program classes and future steps for sorting algorithms and other simple problems such as reversing, swapping intervals, heaps and binary search trees by observing their execution traces. - rephrase
 
-1R. %We begin by classifying execution traces of algorithms working on a finite array of numbers that are swapped according to some rules. Next we focus on detecting patterns of a specific class of programs inside a larger set of programs. This is then extended to emulation of algorithms and combination of various programs in order to obtain novel programs and also achieve program optimization. 
+1R. We begin by classifying execution traces of algorithms working on a finite array of numbers that are swapped according to some rules. Next we focus on detecting patterns of a specific class of programs inside a larger set of programs. This is then extended to emulation of algorithms and combination of various programs in order to obtain novel programs and also achieve program optimization. 
 
 METHOD (extension to objective)
 -> 
 
-We begin by classifying execution traces of algorithms working on a finite array of numbers, such as various sorting and data structures algorithms. Next we experiment with detecting sub-program patterns inside the trace sequence of a larger program. The last step is to predict future steps in the execution of various sorting algorithms. More specifically, we try to emulate their behavior by observing their execution traces. Finally, we discuss generalizations to other classes of programs, such as 1-D Cellular Automata.
+1F. We begin by classifying execution traces of algorithms working on a finite array of numbers, such as various sorting and data structures algorithms. Next we experiment with detecting sub-program patterns inside the trace sequence of a larger program. The last step is to predict future steps in the execution of various sorting algorithms. More specifically, we try to emulate their behavior by observing their execution traces. Finally, we discuss generalizations to other classes of programs, such as 1-D Cellular Automata.
 
-Define Experiments for Cellular Automata - practical (check notebook for some ideas)
+2. Define Experiments for Cellular Automata - practical (check notebook for some ideas)
 
-(10 greens + 1 blue) 11/140
+3. Whole view: trace, program, code city, etc... - make a diagram - visual
+
+(10 greens + 2 blue) 12/140
