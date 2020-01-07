@@ -20,10 +20,12 @@ Steps in review (Planning):
 3. Discuss changes with co-author
 	- abstract/introduction more concise wrt to the paper overview - Bipin
 	- point out feedback wrt to the paper overview - Catalin
-4. Restructure, more major feedback items, in any order (address each major feedback item separately)
+4. Restructure, more major feedback items:
+	- address each major feedback item separately
 	- so far here we have 2 major points
 	- abstract, introduction & objective for 1st reviewer
 	- link to software visualization for 2nd reviewer
+	- method part in abstract rephrasing
 
 ## 2. Small Issues
 
@@ -81,8 +83,15 @@ Steps in review (Planning):
 
 ## 5. Comments in Overleaf and other Ideas
 
-% Catalin C1: this sounds too abstract and vague, maybe stick to predicting program classes and future steps for sorting algorithms and other simple problems such as reversing, swapping intervals, heaps and binary search trees by observing their execution traces. - rephrase
+1. % Catalin C1: this sounds too abstract and vague, maybe stick to predicting program classes and future steps for sorting algorithms and other simple problems such as reversing, swapping intervals, heaps and binary search trees by observing their execution traces. - rephrase
+
+1R. %We begin by classifying execution traces of algorithms working on a finite array of numbers that are swapped according to some rules. Next we focus on detecting patterns of a specific class of programs inside a larger set of programs. This is then extended to emulation of algorithms and combination of various programs in order to obtain novel programs and also achieve program optimization. 
+
+METHOD (extension to objective)
+-> 
+
+We begin by classifying execution traces of algorithms working on a finite array of numbers, such as various sorting and data structures algorithms. Next we experiment with detecting sub-program patterns inside the trace sequence of a larger program. The last step is to predict future steps in the execution of various sorting algorithms. More specifically, we try to emulate their behavior by observing their execution traces. Finally, we discuss generalizations to other classes of programs, such as 1-D Cellular Automata.
 
 Define Experiments for Cellular Automata - practical (check notebook for some ideas)
 
-10 greens/140
+(10 greens + 1 blue) 11/140
