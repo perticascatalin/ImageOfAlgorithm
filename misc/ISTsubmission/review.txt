@@ -110,4 +110,6 @@ METHOD (extension to objective)
 
 3. Whole view: trace, program, code city, etc... - make a diagram - visual
 
-(10 greens + 2 blue) 12/140
+4. Catalin C2: incorporate nicely all the literature you know on computer programs and software visualization
+
+(11 greens + 2 blues) 13/140
