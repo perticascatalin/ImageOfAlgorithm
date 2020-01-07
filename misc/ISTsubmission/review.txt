@@ -59,6 +59,7 @@ Steps in review (Planning):
 	- time spent on task (minutes)
 	- corectness of solution (points)
 - the tasks were quite interesting here
+- extravis vs exploreviz
 
 4. H. N. Huang, E. Verbeek, D. German, M. Storey and M. Salois, "Atlantis: Improving the Analysis and Visualization of Large Assembly Execution Traces,"
 
@@ -74,12 +75,18 @@ Steps in review (Planning):
 
 6. City Metaphor
 
-- CodeCity (one of cited reads - 7)
-- ExplorViz (one of suggested reads - 3)
+- CodeCity (one of cited reads - 7, now 6)
+- ExplorViz (one of suggested reads - 3, not referenced)
+- CodeCity - the original work (new read, not referenced)
 
 7. Traces
 
-- Atlantis - assembly (one of suggested reads - 4)
+Analyze program vulnerability, performance problems
+
+- Extravis - software (one of suggested reads - 3, not referenced)
+- Atlantis - assembly (one of suggested reads - 4, not referenced)
+- Critical Section Investigator - java (one of suggested reads - 5, not referenced)
+
 
 ## 4. Major Issues
 
@@ -115,4 +122,7 @@ METHOD (extension to objective)
 
 4. Catalin C2: incorporate nicely all the literature you know on computer programs and software visualization
 
-(12 greens + 2 blues) 14/140
+POINT 3 (extension to suggested reads)
+-> 
+
+(12 greens + 3 blues) 15/140
