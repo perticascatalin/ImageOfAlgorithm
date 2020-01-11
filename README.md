@@ -2,6 +2,18 @@
 
 Repository for all experiments performed in the area of detection, emulation and clustering of programs based on execution traces.
 
+## Experiments
+
+### 1. Sorting
+
+### 2. Detection
+
+### 3. Classification
+
+### 4. Clustering
+
+### 5. Emulation
+
 ## Ideas from Notebook
 
 ### First IOA
