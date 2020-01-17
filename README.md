@@ -10,6 +10,13 @@ Repository for all experiments performed in the area of detection, emulation and
 
 ### 3. Classification
 
+- algorithms.py: implementation for IOAs
+- extractor.py: extracts features from IOAs
+- generator.py: generates IOAs and saves them to csv (any length)
+- process.py: prepares IOAs for training (standardizes length)
+- models.py: training and validation MLP, CNN & LSTM with IOAs
+- default_plot.py: plots training and validation results
+
 ### 4. Clustering
 
 ### 5. Emulation
