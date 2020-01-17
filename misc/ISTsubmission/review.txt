@@ -125,4 +125,4 @@ METHOD (extension to objective)
 POINT 3 (extension to suggested reads)
 -> 
 
-(15 greens + 4 blues) 19/140
+(16 greens + 4 blues) 20/140
