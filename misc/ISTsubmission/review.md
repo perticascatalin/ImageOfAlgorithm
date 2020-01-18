@@ -127,4 +127,6 @@ METHOD (extension to objective)
 POINT 3 (extension to suggested reads)
 -> 
 
-(21 greens + 4 blues) 25/140
+4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.
+
+(22 greens + 4 blues) 26/140
