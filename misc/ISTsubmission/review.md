@@ -45,7 +45,7 @@ Alternative title: Using Neural Networks to Detect and Emulate Execution Traces 
 8. legend for fix types
 9. re-representation -> This allows showcasing different set-ups complexities and improvements based on the data representation type and by designing better models of program induction.
 10. "The type of a new previously unseen program can be predicted", explain why is this important -> This could prove relevant in deciding what type of problem the program solves and which aspects of the input data have a higher influence on the output data of the program.
-11. Review the way you add some references. How you cite them, according to the template of the paper. E.g. [6] presents…. -> Authors' names [6] present(s)… -> improved way of citing (up to discussion and related research for now - *Author's Names* [Number])
+11. Review the way you add some references. How you cite them, according to the template of the paper. E.g. [6] presents…. -> Authors' names [6] present(s)… -> improved way of citing ( *Author's Names* [Number])
 12. fixes bibliography
 
 ## 3. Suggested Reads
@@ -130,4 +130,4 @@ POINT 3 (extension to suggested reads) C1
 
 4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.
 
-(23 greens + 4 blues) 27/140
+(24 greens + 4 blues) 28/140
