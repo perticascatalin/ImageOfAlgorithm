@@ -1,6 +1,12 @@
 # Review
 
-Alternative title: Using Neural Networks to Detect and Emulate Execution Traces of Simple Algorithms
+Alternative titles: 
+
+1. Using Neural Networks to Detect and Emulate Execution Traces of Simple Algorithms
+2. Classification and Emulation of Sorting Algorithms using Neural Networks
+3. Using Neural Networks for Learning to Detect and Emulate Sorting Algorithms based on their Execution Traces
+4. Neural Networks Learn to Detect and Emulate Sorting Algorithms from their Execution Traces
+
 
 ## 1. Overview and Structure
 
@@ -130,4 +136,4 @@ POINT 3 (extension to suggested reads) C1
 
 4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.
 
-(24 greens + 4 blues) 28/140
+(25 greens + 4 blues) 29/140
