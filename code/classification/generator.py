@@ -39,7 +39,8 @@ X, Y = generate_data(num_samples, arr_size)
 print X[0]
 print Y[0]
 
-f = open("sample.csv","w+")
+#f = open("sample.csv","w+")
+f = open("datasets/2_2.csv", "w+")
 
 s = str(Y[0])
 for x in X[0]:

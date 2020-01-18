@@ -5,9 +5,12 @@ from keras.models import Sequential
 from keras.layers import Flatten, Dense, Conv2D, MaxPooling2D, LSTM
 from default_plot import plotter
 
-X_ploc = 'datasets/X_GPC_20_1000_0after.p'
-y_ploc = 'datasets/y_GPC_20_1000_0after.p'
-no_epochs = 4
+# X_ploc = 'datasets/X_GPC_20_1000_0after.p'
+# y_ploc = 'datasets/y_GPC_20_1000_0after.p'
+X_ploc = 'datasets/X_GPC_2_2_0after.p'
+y_ploc = 'datasets/y_GPC_2_2_0after.p'
+#no_epochs = 4
+no_epochs = 1
 
 task = X_ploc.split('/')[1].split('_')[1]
 no_samples_per_class = int(X_ploc.split('/')[1].split('_')[3])

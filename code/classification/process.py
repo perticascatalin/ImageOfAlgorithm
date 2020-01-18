@@ -44,4 +44,5 @@ def processData(padding = '0before', location = 'datasets/20_1000.csv', task = '
 	y_ploc = 'datasets/y_' + task + '_' + str(no_features) + '_' + str(no_samples_per_class) + '_' + padding + '.p'
 	pickle.dump(y, open(y_ploc, 'wb'))
 
-processData(padding = '0after')
+#processData(padding = '0after')
+processData('0after', 'datasets/2_2.csv')
