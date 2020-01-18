@@ -91,11 +91,11 @@ Analyze program vulnerability, performance problems
 
 ## 4. Major Issues
 
-1. Abstract & Introduction (reviewer 1)
+1. **Abstract & Introduction (reviewer 1)**
 	- 1st page of review, blue comments - Bipin
 	- for myself, need to revise literature and define problem + show objective based on literature
 
-2. Objective (reviewer 1)
+2. **Objective (reviewer 1)**
 	- objective is to find how to model algorithms using neural networks
 	- start from the sensorimotor view (moving objects around)
 	- programs are similar to moving objects around
@@ -103,12 +103,12 @@ Analyze program vulnerability, performance problems
 	- but these programs are not hardcoded
 	- can we use them to infer more abstract programs?
 
-3. Link to Visualization (reviewer 2)
+3. **Link to Visualization (reviewer 2)**
 	- all suggested reads go here
 
 ## 5. Comments in Overleaf and other Ideas
 
-1. Catalin C1: this sounds too abstract and vague, maybe stick to predicting program classes and future steps for sorting algorithms and other simple problems such as reversing, swapping intervals, heaps and binary search trees by observing their execution traces. - rephrase
+1C. Catalin C1: this sounds too abstract and vague, maybe stick to predicting program classes and future steps for sorting algorithms and other simple problems such as reversing, swapping intervals, heaps and binary search trees by observing their execution traces. - rephrase
 
 1R. We begin by classifying execution traces of algorithms working on a finite array of numbers that are swapped according to some rules. Next we focus on detecting patterns of a specific class of programs inside a larger set of programs. This is then extended to emulation of algorithms and combination of various programs in order to obtain novel programs and also achieve program optimization. 
 
@@ -121,9 +121,9 @@ METHOD (extension to objective)
 
 3. Whole view: trace, program, code city, etc... - make a diagram - visual
 
-4. Catalin C2: incorporate nicely all the literature you know on computer programs and software visualization
+4C. Catalin C2: incorporate nicely all the literature you know on computer programs and software visualization
 
 POINT 3 (extension to suggested reads)
 -> 
 
-(18 greens + 4 blues) 22/140
+(19 greens + 4 blues) 23/140
