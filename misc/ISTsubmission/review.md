@@ -28,16 +28,18 @@ Alternative titles:
 3. **Discuss changes with co-author (1/4 done)**
 	- abstract/introduction more concise wrt to the paper overview - Bipin
 	- point out feedback wrt to the paper overview - Catalin
-4. **Restructure, more major feedback items (1/8 done)**
+4. **Restructure, more major feedback items (1.25/8 done)**
 	- address each major feedback item separately
 	- so far here we have 2 major points
 
 	- **abstract, introduction & objective for 1st reviewer (1/4 done)**
-	- **link to software visualization for 2nd reviewer (1/2 done)**
+	- **link to software visualization for 2nd reviewer (2/2 done)**
 
 	- method part in abstract rephrasing R1
 	- minor changes throughout the rest of the abstract
 	- add reads for point 3 C1
+	- rephrasing to emphasize execution traces
+
 
 ## 2. Small Issues
 
@@ -84,19 +86,19 @@ Alternative titles:
 
 6. City Metaphor
 
-- CodeCity (one of cited reads - 7, now 6)
-- ExplorViz (one of suggested reads - 3, not referenced)
-- CodeCity - the original work (new read, not referenced)
+- CodeCity 
+- ExplorViz
+- CodeCity - the original work
 
 7. Traces
 
-Analyze program vulnerability, performance problems
+Analyze program vulnerability, performance problems, comprehesibility
 
-- Extravis - software (one of suggested reads - 3, not referenced)
-- Atlantis - assembly (one of suggested reads - 4, referenced)
-- Critical Section Investigator - java (one of suggested reads - 5, referenced)
+- Extravis - software
+- Atlantis - assembly
+- Critical Section Investigator - java 
 
-On one hand program representation and visualization have an effect how comprehensible the program is and thus how efficient someone could be to perform a task on it [non referenced paper]. On the other hand traces prove efficient for detecting vulnerabilities and performance issues.
+On one hand program representation and visualization have an effect how comprehensible the program is and thus how efficient someone could be to perform a task on it. On the other hand traces prove efficient for detecting vulnerabilities and performance issues.
 
 
 ## 4. Major Issues
@@ -136,6 +138,6 @@ METHOD (extension to objective) R1
 POINT 3 (extension to suggested reads) C1
 -> 
 
-4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.
+4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.... (rephrased afterwards)
 
-(26 greens + 4 blues) 30/140
+(28 greens + 4 blues) 32/140
