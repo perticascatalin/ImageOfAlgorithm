@@ -117,13 +117,13 @@ METHOD (extension to objective)
 
 1F. We begin by classifying execution traces of algorithms working on a finite array of numbers, such as various sorting and data structures algorithms. Next we experiment with detecting sub-program patterns inside the trace sequence of a larger program. The last step is to predict future steps in the execution of various sorting algorithms. More specifically, we try to emulate their behavior by observing their execution traces. Finally, we discuss generalizations to other classes of programs, such as 1-D Cellular Automata.
 
-2. Define Experiments for Cellular Automata - practical (check notebook for some ideas)
+2C. Define Experiments for Cellular Automata - practical (check notebook for some ideas)
 
-3. Whole view: trace, program, code city, etc... - make a diagram - visual
+3C. Whole view: trace, program, code city, etc... - make a diagram - visual
 
 4C. Catalin C2: incorporate nicely all the literature you know on computer programs and software visualization
 
 POINT 3 (extension to suggested reads)
 -> 
 
-(19 greens + 4 blues) 23/140
+(20 greens + 4 blues) 24/140
