@@ -93,8 +93,10 @@ Alternative titles:
 Analyze program vulnerability, performance problems
 
 - Extravis - software (one of suggested reads - 3, not referenced)
-- Atlantis - assembly (one of suggested reads - 4, not referenced)
-- Critical Section Investigator - java (one of suggested reads - 5, not referenced)
+- Atlantis - assembly (one of suggested reads - 4, referenced)
+- Critical Section Investigator - java (one of suggested reads - 5, referenced)
+
+On one hand program representation and visualization have an effect how comprehensible the program is and thus how efficient someone could be to perform a task on it [non referenced paper]. On the other hand traces prove efficient for detecting vulnerabilities and performance issues.
 
 
 ## 4. Major Issues
@@ -136,4 +138,4 @@ POINT 3 (extension to suggested reads) C1
 
 4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.
 
-(25 greens + 4 blues) 29/140
+(26 greens + 4 blues) 30/140
