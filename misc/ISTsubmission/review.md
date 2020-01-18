@@ -15,22 +15,23 @@ Alternative title: Using Neural Networks to Detect and Emulate Execution Traces 
 9. Future Work and Applications
 10. Acknowledgement
 
-Steps in review (Planning):
+### Steps in review (Planning):
 
-1. Fix minor and medium feedback items (1/2 done)
-2. Read suggested papers (1/4 done)
-3. Discuss changes with co-author
+1. **Fix minor and medium feedback items (1/2 done)**
+2. **Read suggested papers (1/2 done)**
+3. **Discuss changes with co-author (1/4 done)**
 	- abstract/introduction more concise wrt to the paper overview - Bipin
 	- point out feedback wrt to the paper overview - Catalin
-4. Restructure, more major feedback items:
+4. **Restructure, more major feedback items (1/8 done)**
 	- address each major feedback item separately
 	- so far here we have 2 major points
 
-	- abstract, introduction & objective for 1st reviewer (1/4 done)
-	- link to software visualization for 2nd reviewer
+	- **abstract, introduction & objective for 1st reviewer (1/4 done)**
+	- **link to software visualization for 2nd reviewer (1/2 done)**
 
 	- method part in abstract rephrasing R1
 	- minor changes throughout the rest of the abstract
+	- add reads for point 3 C1
 
 ## 2. Small Issues
 
@@ -113,7 +114,7 @@ Analyze program vulnerability, performance problems
 
 1R. We begin by classifying execution traces of algorithms working on a finite array of numbers that are swapped according to some rules. Next we focus on detecting patterns of a specific class of programs inside a larger set of programs. This is then extended to emulation of algorithms and combination of various programs in order to obtain novel programs and also achieve program optimization. 
 
-METHOD (extension to objective)
+METHOD (extension to objective) R1
 -> 
 
 1F. We begin by classifying execution traces of algorithms working on a finite array of numbers, such as various sorting and data structures algorithms. Next we experiment with detecting sub-program patterns inside the trace sequence of a larger program. The last step is to predict future steps in the execution of various sorting algorithms. More specifically, we try to emulate their behavior by observing their execution traces. Finally, we discuss generalizations to other classes of programs, such as 1-D Cellular Automata.
@@ -124,9 +125,9 @@ METHOD (extension to objective)
 
 4C. Catalin C2: incorporate nicely all the literature you know on computer programs and software visualization
 
-POINT 3 (extension to suggested reads)
+POINT 3 (extension to suggested reads) C1
 -> 
 
 4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.
 
-(22 greens + 4 blues) 26/140
+(23 greens + 4 blues) 27/140
