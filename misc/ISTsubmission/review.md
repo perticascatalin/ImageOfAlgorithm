@@ -25,15 +25,17 @@ Alternative titles:
 
 1. **Fix minor and medium feedback items (1/2 done)**
 2. **Read suggested papers (1/2 done)**
-3. **Discuss changes with co-author (1/4 done)**
+3. **Discuss changes with co-author (1/2 done)**
 	- abstract/introduction more concise wrt to the paper overview - Bipin
 	- point out feedback wrt to the paper overview - Catalin
+	- discuss about taking out Section 1, reinsert references - Bipin
 4. **Restructure, more major feedback items (1.5/8 done)**
 	- address each major feedback item separately
-	- so far here we have 3 major points
+	- so far here we have 4 major points
 
 	- **abstract, introduction & objective for 1st reviewer (1/2 done)**
 	- **link to software visualization for 2nd reviewer (2/2 done)**
+	- **restructure for 1st reviewer (discussed)**
 	- **ambitious claims for 2nd reviewer (0/2 done)**
 
 	- method part in abstract rephrasing R1
@@ -141,4 +143,4 @@ POINT 3 (extension to suggested reads) C1
 
 4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.... (rephrased afterwards)
 
-(30 greens + 5 blues) 35/140
+(30 greens + 6 blues) 36/140
