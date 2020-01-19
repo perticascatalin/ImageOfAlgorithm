@@ -5,7 +5,7 @@ Alternative titles:
 1. Using Neural Networks to Detect and Emulate Execution Traces of Simple Algorithms
 2. Classification and Emulation of Sorting Algorithms using Neural Networks
 3. Using Neural Networks for Learning to Detect and Emulate Sorting Algorithms based on their Execution Traces
-4. Neural Networks Learn to Detect and Emulate Sorting Algorithms from their Execution Traces
+4. Neural Networks Learn to Detect and Emulate Sorting Algorithms from Images of their Execution Traces
 
 
 ## 1. Overview and Structure
@@ -28,15 +28,16 @@ Alternative titles:
 3. **Discuss changes with co-author (1/4 done)**
 	- abstract/introduction more concise wrt to the paper overview - Bipin
 	- point out feedback wrt to the paper overview - Catalin
-4. **Restructure, more major feedback items (1.25/8 done)**
+4. **Restructure, more major feedback items (1.5/8 done)**
 	- address each major feedback item separately
-	- so far here we have 2 major points
+	- so far here we have 3 major points
 
-	- **abstract, introduction & objective for 1st reviewer (1/4 done)**
+	- **abstract, introduction & objective for 1st reviewer (1/2 done)**
 	- **link to software visualization for 2nd reviewer (2/2 done)**
+	- **ambitious claims for 2nd reviewer (0/2 done)**
 
 	- method part in abstract rephrasing R1
-	- minor changes throughout the rest of the abstract
+	- changes throughout the rest of the abstract
 	- add reads for point 3 C1
 	- rephrasing to emphasize execution traces
 
@@ -140,4 +141,4 @@ POINT 3 (extension to suggested reads) C1
 
 4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.... (rephrased afterwards)
 
-(28 greens + 4 blues) 32/140
+(30 greens + 5 blues) 35/140
