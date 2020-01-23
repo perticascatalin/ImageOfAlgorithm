@@ -21,23 +21,29 @@ Alternative titles:
 9. Future Work and Applications
 10. Acknowledgement
 
-### Steps in review (Planning 2.75/4):
+### Steps in review (Planning 3.4375/4):
 
 1. **Fix minor and medium feedback items (2/2 done)**
 2. **Read suggested papers (2/2 done)**
-3. **Discuss changes with co-author (1/2 done)**
+3. **Discuss changes with co-author (2/2 done)**
 	- abstract/introduction more concise wrt to the paper overview - Bipin
 	- point out feedback wrt to the paper overview - Catalin
 	- discuss about taking out Section 1 (introduction), reinsert references - Bipin
 	- discuss about reorganizing & renaming sections - Catalin
-4. **Restructure, more major feedback items (2/8 done)**
+4. **Restructure, more major feedback items (3.5/8 done)**
 	- address each major feedback item separately
-	- so far here we have 4 major points
+	- so far here we have 5 major points
 
 	- **abstract, introduction & objective for 1st reviewer (1/2 done)**
 	- **link to software visualization for 2nd reviewer (2/2 done)**
-	- **restructure & renaming for 1st reviewer (1/2 done)**
-	- **ambitious claims for 2nd reviewer (0/2 done)**
+	- **restructure & renaming for 1st reviewer (4/4 done)**
+	- **ambitious claims for 2nd reviewer (2/2 done)**
+
+	- **It is very important to make clear what is the problem you are trying to solve, that is not covered in other works. (1st reviewer)**
+	- **The research problem is not presented. (1st reviewer)**
+	- It is important to add more context and motivation based on literature review. Then, present the problem in a concise way. Finally, present the goal of the work. (1st reviewer)
+	- There is a mix between definitions and what is your work. You should separate this better. Give definitions from others and add references. Then present what is you study. (1st reviewer)
+
 
 	- method part in abstract rephrasing R1
 	- changes throughout the rest of the abstract
@@ -48,8 +54,8 @@ Alternative titles:
 	- rename sections at the beginning - done
 	- take care of related research section, split discussion - done
 	- rename sections at the end - done
-	- identify important commented references & reinsert them
-	- fix other issues caused by restructure
+	- identify important commented references & reinsert them - done
+	- fix other issues caused by restructure - done
 
 
 ## 2. Small Issues
@@ -151,4 +157,4 @@ POINT 3 (extension to suggested reads) C1
 
 4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.... (rephrased afterwards)
 
-(32 greens + 6 blues) 38/140
+(32 greens + 7 blues) 39/140
