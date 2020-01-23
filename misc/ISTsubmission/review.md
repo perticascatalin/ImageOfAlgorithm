@@ -57,6 +57,11 @@ Alternative titles:
 	- identify important commented references & reinsert them - done
 	- fix other issues caused by restructure - done
 
+	- introduction
+	- program induction and definitions
+	- learning theory (eduction in programming)
+	- execution traces in software & visualization
+
 
 ## 2. Small Issues
 
@@ -157,4 +162,4 @@ POINT 3 (extension to suggested reads) C1
 
 4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.... (rephrased afterwards)
 
-(32 greens + 7 blues) 39/140
+(32 greens + 8 blues) 40/140
