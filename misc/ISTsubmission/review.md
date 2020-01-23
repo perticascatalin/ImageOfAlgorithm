@@ -21,7 +21,7 @@ Alternative titles:
 9. Future Work and Applications
 10. Acknowledgement
 
-### Steps in review (Planning 3.4375/4):
+### Steps in review (Planning 3.5/4):
 
 1. **Fix minor and medium feedback items (2/2 done)**
 2. **Read suggested papers (2/2 done)**
@@ -30,11 +30,11 @@ Alternative titles:
 	- point out feedback wrt to the paper overview - Catalin
 	- discuss about taking out Section 1 (introduction), reinsert references - Bipin
 	- discuss about reorganizing & renaming sections - Catalin
-4. **Restructure, more major feedback items (3.5/8 done)**
+4. **Restructure, more major feedback items (4/8 done)**
 	- address each major feedback item separately
 	- so far here we have 5 major points
 
-	- **abstract, introduction & objective for 1st reviewer (1/2 done)**
+	- **abstract, introduction & objective for 1st reviewer (2/2 done)**
 	- **link to software visualization for 2nd reviewer (2/2 done)**
 	- **restructure & renaming for 1st reviewer (4/4 done)**
 	- **ambitious claims for 2nd reviewer (2/2 done)**
@@ -162,4 +162,4 @@ POINT 3 (extension to suggested reads) C1
 
 4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.... (rephrased afterwards)
 
-(32 greens + 8 blues) 40/140
+(32 greens + 9 blues) 41/140
