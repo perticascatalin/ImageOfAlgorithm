@@ -21,7 +21,7 @@ Alternative titles:
 9. Future Work and Applications
 10. Acknowledgement
 
-### Steps in review (Planning 3.5/4):
+### Steps in review (Planning 3.62/4):
 
 1. **Fix minor and medium feedback items (2/2 done)**
 2. **Read suggested papers (2/2 done)**
@@ -30,7 +30,7 @@ Alternative titles:
 	- point out feedback wrt to the paper overview - Catalin
 	- discuss about taking out Section 1 (introduction), reinsert references - Bipin
 	- discuss about reorganizing & renaming sections - Catalin
-4. **Restructure, more major feedback items (4/8 done)**
+4. **Restructure, more major feedback items (5/8 done)**
 	- address each major feedback item separately
 	- so far here we have 5 major points
 
@@ -42,7 +42,7 @@ Alternative titles:
 	- **It is very important to make clear what is the problem you are trying to solve, that is not covered in other works. (1st reviewer)**
 	- **The research problem is not presented. (1st reviewer)**
 	- It is important to add more context and motivation based on literature review. Then, present the problem in a concise way. Finally, present the goal of the work. (1st reviewer)
-	- There is a mix between definitions and what is your work. You should separate this better. Give definitions from others and add references. Then present what is you study. (1st reviewer)
+	- There is a mix between definitions and what is your work. You should separate this better. Give definitions from others and add references. Then present what is you study. (1st reviewer) - DONE
 
 
 	- method part in abstract rephrasing R1
@@ -162,4 +162,4 @@ POINT 3 (extension to suggested reads) C1
 
 4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.... (rephrased afterwards)
 
-(32 greens + 10 blues) 42/140
+(33 greens + 10 blues) 43/140
