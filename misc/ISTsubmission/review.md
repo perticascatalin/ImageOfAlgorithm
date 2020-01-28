@@ -209,7 +209,7 @@ This is more difficult to infer with basic machine learning models because it is
 
 A considerable influence on the accuracy of the predicted results is posed by the difference in how the algorithms work. This is mostly evident for Heapsort, which organizes data into a tree structure.
 
-When using basic machine learning models, it is more difficult to infer the process used to reorganize the data into a heap (tree/hierarchical structure) than it is for reorganizing lists - eg. InsertionSort and BubbleSort.  ..because it is represented as a higher-order function than the one for .
+When using basic machine learning models, it is more difficult to infer the process used to reorganize data into a heap (tree/hierarchical structure) than it is for reorganizing data inside lists - eg. InsertionSort and BubbleSort. The reason for this is because trees are inherently more complex structures than lists, and so the models behind tree algorithms are represented by higher-order functions than the models for list algorithms.
 
 6.6
 
@@ -217,4 +217,6 @@ Based on our analysis of the experimental results, we can draw some conclusions 
 
 ->
 
-(36 greens + 10 blues) 46/140
+Based on our analysis of the experimental results, we can draw some conclusions about to what extent basic machine learning models can be used to infer the behaviour of programs from execution traces. There are four parameters about which we comment below as to whether our results are favorable or further research is needed.
+
+(37 greens + 10 blues) 47/140
