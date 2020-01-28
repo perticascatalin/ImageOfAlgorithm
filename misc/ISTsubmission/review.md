@@ -32,7 +32,7 @@ Alternative titles:
 	- discuss about reorganizing & renaming sections - Catalin
 4. **Restructure, more major feedback items (6/8 done)**
 	- address each major feedback item separately
-	- so far here we have 5 major points
+	- so far here we have 8 major points
 
 	- **abstract, introduction & objective for 1st reviewer (2/2 done)**
 	- **link to software visualization for 2nd reviewer (2/2 done)**
@@ -161,4 +161,46 @@ POINT 3 (extension to suggested reads) C1
 
 4F. Analysing program traces has seen success in the areas of identifying methods which contribute to an overall's program execution time \textit{Shah \& Guyer} and detecting software vulnerabilities in \textit{Huang et al.}. Although the term traces is not explicitly used in the study presented by \textit{Pascanu et al.}, the approach of classifying malware based on the executed instructions and predicting the next API calls, is implicitly also analysing a program trace.... (rephrased afterwards)
 
-(34 greens + 10 blues) 44/140
+## 6. Review Misc
+
+6.1
+
+However we do make a case for their lack of knowledge about the intermediate steps required to infer output from input (in the execution of a program).
+
+-> 
+
+However, none of them exploits potentially available knowledge about the intermediate steps of the program which maps the input to the output.
+
+6.2
+
+(sorting, reversing and tree data structures on an array)
+
+->
+
+Among the non-sorting programs, we have min/max heap and binary search tree.
+
+6.3
+
+Our results show that neural networks can learn the patterns of algorithms, instead of other heuristics like using the number of time-steps required or observing the last line in the IoA and deciding whether it is a sorting algorithm based on the order of the elements.
+
+->
+
+6.4
+
+Since small time-step errors can contribute considerably to the difficulty of correctly reconstructing the sequence, we consider three measures for trace segmentation for a comparison against the correct segmentation:
+
+->
+
+6.5
+
+This is more difficult to infer with basic machine learning models because it is represented as a higher-order function than the one for InsertionSort or BubbleSort.
+
+->
+
+6.6
+
+Based on our analysis of the experimental results, we can draw some conclusions about to what extent basic machine learning models can be used to infer the behaviour of programs from execution traces. There are four parameters about which we comment below as to whether our results are favorable or further research is needed.
+
+->
+
+(35 greens + 10 blues) 45/140
