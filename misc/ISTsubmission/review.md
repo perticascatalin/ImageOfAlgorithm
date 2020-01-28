@@ -21,7 +21,7 @@ Alternative titles:
 9. Future Work and Applications
 10. Acknowledgement
 
-### Steps in review (Planning 4.5/5):
+### Steps in review (Planning 5.25/7):
 
 1. **Fix minor and medium feedback items (2/2 done)**
 2. **Read suggested papers (2/2 done)**
@@ -30,7 +30,7 @@ Alternative titles:
 	- point out feedback wrt to the paper overview - Catalin
 	- discuss about taking out Section 1 (introduction), reinsert references - Bipin
 	- discuss about reorganizing & renaming sections - Catalin
-4. **Restructure, more major feedback items (6/8 done)**
+4. **Restructure, more major feedback items (8/8 done)**
 	- address each major feedback item separately
 	- so far here we have 8 major points
 
@@ -39,8 +39,8 @@ Alternative titles:
 	- **restructure & renaming for 1st reviewer (4/4 done)**
 	- **ambitious claims for 2nd reviewer (2/2 done)**
 
-	- **It is very important to make clear what is the problem you are trying to solve, that is not covered in other works. (1st reviewer)**
-	- **The research problem is not presented. (1st reviewer)**
+	- **It is very important to make clear what is the problem you are trying to solve, that is not covered in other works. (1st reviewer)** - DONE
+	- **The research problem is not presented. (1st reviewer)** - DONE
 	- It is important to add more context and motivation based on literature review. Then, present the problem in a concise way. Finally, present the goal of the work. (1st reviewer) - DONE
 	- There is a mix between definitions and what is your work. You should separate this better. Give definitions from others and add references. Then present what is you study. (1st reviewer) - DONE
 
@@ -61,7 +61,8 @@ Alternative titles:
 	- learning theory (eduction in programming)
 	- execution traces in software & visualization
 
-5. Address Bipin's feedback (3/4 done)
+5. Address Bipin's feedback (4/4 done)
+6. Prepare Answers (1/4 done)
 
 
 ## 2. Small Issues
@@ -165,8 +166,16 @@ POINT 3 (extension to suggested reads) C1
 
 ## 6. Review Misc
 
-CA stuff integration
-The research problem we try to solve
+CA stuff integration:
+	- find an intro - DONE
+	- better split between related research and research - DONE
+
+Some other important aspects to look over (7th item):
+
+A. The research problem we try to solve
+B. How/why did you choose the no-sorting programs? The "reasons" behind the choice of focus on in-line sorting algorithms are not well explained. Why do not use other types? Are those types representatives?
+C. Feedback to address in Discussion/Conclusion
+D. Background and Conclusion bad formulation (red on paper)
 
 
 6.1
@@ -221,4 +230,6 @@ Based on our analysis of the experimental results, we can draw some conclusions 
 
 Based on our analysis of the experimental results, we can draw some conclusions about to what extent basic machine learning models can be used to infer the behaviour of programs from execution traces. There are four parameters about which we comment below as to whether our results are favorable or further research is needed.
 
-(38 greens + 10 blues) 48/140
+## 7. Prepare Answers
+
+(38 greens + 10 blues + 1 yellow) 49/140
