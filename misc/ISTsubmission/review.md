@@ -163,6 +163,10 @@ POINT 3 (extension to suggested reads) C1
 
 ## 6. Review Misc
 
+CA stuff integration
+The research problem we try to solve
+
+
 6.1
 
 However we do make a case for their lack of knowledge about the intermediate steps required to infer output from input (in the execution of a program).
@@ -185,17 +189,27 @@ Our results show that neural networks can learn the patterns of algorithms, inst
 
 ->
 
+The results from this section show that neural networks can learn the patterns of algorithms. We were careful to check that the learned models do not rely on simple observations such as the number of time-steps (for distinguishing between sorting algorithms) or the final order of the array elements (for distinguishing sorting from non-sorting programs).
+
 6.4
 
 Since small time-step errors can contribute considerably to the difficulty of correctly reconstructing the sequence, we consider three measures for trace segmentation for a comparison against the correct segmentation:
 
 ->
 
+Since small time-step errors can contribute considerably to the difficulty of correctly reconstructing the sequence, we consider three measures of comparison against the correct segmentation:
+
 6.5
+
+A considerable influence on the accuracy of the predicted results is posed by the difference in how the algorithms work. This is mostly evident for Heapsort, which organizes data into a tree structure.
 
 This is more difficult to infer with basic machine learning models because it is represented as a higher-order function than the one for InsertionSort or BubbleSort.
 
 ->
+
+A considerable influence on the accuracy of the predicted results is posed by the difference in how the algorithms work. This is mostly evident for Heapsort, which organizes data into a tree structure.
+
+When using basic machine learning models, it is more difficult to infer the process used to reorganize the data into a heap (tree/hierarchical structure) than it is for reorganizing lists - eg. InsertionSort and BubbleSort.  ..because it is represented as a higher-order function than the one for .
 
 6.6
 
@@ -203,4 +217,4 @@ Based on our analysis of the experimental results, we can draw some conclusions 
 
 ->
 
-(35 greens + 10 blues) 45/140
+(36 greens + 10 blues) 46/140
