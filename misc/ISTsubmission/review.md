@@ -21,7 +21,7 @@ Alternative titles:
 9. Future Work and Applications
 10. Acknowledgement
 
-### Steps in review (Planning 3.75/4):
+### Steps in review (Planning 4.5/5):
 
 1. **Fix minor and medium feedback items (2/2 done)**
 2. **Read suggested papers (2/2 done)**
@@ -60,6 +60,8 @@ Alternative titles:
 	- program induction and definitions
 	- learning theory (eduction in programming)
 	- execution traces in software & visualization
+
+5. Address Bipin's feedback (3/4 done)
 
 
 ## 2. Small Issues
@@ -219,4 +221,4 @@ Based on our analysis of the experimental results, we can draw some conclusions 
 
 Based on our analysis of the experimental results, we can draw some conclusions about to what extent basic machine learning models can be used to infer the behaviour of programs from execution traces. There are four parameters about which we comment below as to whether our results are favorable or further research is needed.
 
-(37 greens + 10 blues) 47/140
+(38 greens + 10 blues) 48/140
