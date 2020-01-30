@@ -181,12 +181,14 @@ D. Background and Conclusion bad formulation (red on paper) - DONE
 To revise co-author:
 
 Whole background section.
+Parts of conclusions section.
 
 Misc:
 
 Models references - DONE
 CA references - DONE
 Available online arxiv links
+Revisit conclusions
 
 6.1
 
@@ -242,4 +244,4 @@ Based on our analysis of the experimental results, we can draw some conclusions 
 
 ## 7. Prepare Answers
 
-(39 greens + 10 blues + 2 yellow) 51/140
+(40 greens + 10 blues + 2 yellow) 52/140
