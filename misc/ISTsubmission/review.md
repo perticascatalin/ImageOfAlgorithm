@@ -184,8 +184,9 @@ Whole background section.
 
 Misc:
 
-Models references
-CA references
+Models references - DONE
+CA references - DONE
+Available online arxiv links
 
 6.1
 
@@ -241,4 +242,4 @@ Based on our analysis of the experimental results, we can draw some conclusions 
 
 ## 7. Prepare Answers
 
-(38 greens + 10 blues + 2 yellow) 50/140
+(39 greens + 10 blues + 2 yellow) 51/140
