@@ -21,7 +21,7 @@ Alternative titles:
 9. Future Work and Applications
 10. Acknowledgement
 
-### Steps in review (Planning 5.5/7):
+### Steps in review (Planning 5.625/7):
 
 1. **Fix minor and medium feedback items (2/2 done)**
 2. **Read suggested papers (2/2 done)**
@@ -174,7 +174,7 @@ Some other important aspects to look over (7th item):
 
 A. The research problem we try to solve
 B. How/why did you choose the no-sorting programs? The "reasons" behind the choice of focus on in-line sorting algorithms are not well explained. Why do not use other types? Are those types representatives?
-C. Feedback to address in Discussion/Conclusion
+C. Feedback to address in Discussion/Conclusion (1/2 DONE) - gave response, need summary
 D. Background and Conclusion bad formulation (red on paper) - DONE
 
 
@@ -244,4 +244,4 @@ Based on our analysis of the experimental results, we can draw some conclusions 
 
 ## 7. Prepare Answers
 
-(40 greens + 10 blues + 2 yellow) 52/140
+(40 greens + 11 blues + 2 yellow) 53/140
