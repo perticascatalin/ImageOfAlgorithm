@@ -21,7 +21,7 @@ Alternative titles:
 9. Future Work and Applications
 10. Acknowledgement
 
-### Steps in review (Planning 5.625/7):
+### Steps in review (Planning 6.5/7):
 
 1. **Fix minor and medium feedback items (2/2 done)**
 2. **Read suggested papers (2/2 done)**
@@ -62,7 +62,7 @@ Alternative titles:
 	- execution traces in software & visualization
 
 5. Address Bipin's feedback (4/4 done)
-6. Prepare Answers (1/4 done)
+6. Prepare Answers (3/4 done)
 
 
 ## 2. Small Issues
@@ -172,23 +172,23 @@ CA stuff integration:
 
 Some other important aspects to look over (7th item):
 
-A. The research problem we try to solve
+A. The research problem we try to solve - DONE
 B. How/why did you choose the no-sorting programs? The "reasons" behind the choice of focus on in-line sorting algorithms are not well explained. Why do not use other types? Are those types representatives?
-C. Feedback to address in Discussion/Conclusion (1/2 DONE) - gave response, need summary
+C. Feedback to address in Discussion/Conclusion - DONE
 D. Background and Conclusion bad formulation (red on paper) - DONE
 
 
 To revise co-author:
 
-Whole background section.
-Parts of conclusions section.
+Whole background section.     DELIVERED
+Parts of conclusions section. NOT NEEDED
 
 Misc:
 
 Models references - DONE
 CA references - DONE
 Available online arxiv links
-Revisit conclusions
+Revisit Conclusions       DONE
 
 6.1
 
@@ -244,4 +244,4 @@ Based on our analysis of the experimental results, we can draw some conclusions 
 
 ## 7. Prepare Answers
 
-(40 greens + 11 blues + 2 yellow) 53/140
+(40 greens + 12 blues + 2 yellow) 54/140
