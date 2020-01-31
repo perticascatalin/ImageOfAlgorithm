@@ -26,10 +26,10 @@ Alternative titles:
 1. **Fix minor and medium feedback items (2/2 done)**
 2. **Read suggested papers (2/2 done)**
 3. **Discuss changes with co-author (2/2 done)**
-	- abstract/introduction more concise wrt to the paper overview - Bipin
-	- point out feedback wrt to the paper overview - Catalin
-	- discuss about taking out Section 1 (introduction), reinsert references - Bipin
-	- discuss about reorganizing & renaming sections - Catalin
+	- abstract/introduction more concise wrt to the paper overview - B
+	- point out feedback wrt to the paper overview - C
+	- discuss about taking out Section 1 (introduction), reinsert references - B
+	- discuss about reorganizing & renaming sections - C
 4. **Restructure, more major feedback items (8/8 done)**
 	- address each major feedback item separately
 	- so far here we have 8 major points
@@ -61,7 +61,7 @@ Alternative titles:
 	- learning theory (eduction in programming)
 	- execution traces in software & visualization
 
-5. Address Bipin's feedback (4/4 done)
+5. Address co-Author's feedback (4/4 done)
 6. Prepare Answers (4/4 done)
 
 
@@ -128,8 +128,8 @@ On one hand program representation and visualization have an effect how comprehe
 ## 4. Major Issues
 
 1. **Abstract & Introduction (reviewer 1)**
-	- 1st page of review, blue comments - Bipin
-	- for myself, need to revise literature and define problem + show objective based on literature
+	- 1st page of review, blue comments - B
+	- need to revise literature and define problem + show objective based on literature - C
 
 2. **Objective (reviewer 1)**
 	- objective is to find how to model algorithms using neural networks
@@ -144,7 +144,7 @@ On one hand program representation and visualization have an effect how comprehe
 
 ## 5. Comments in Overleaf and other Ideas
 
-1C. Catalin C1: this sounds too abstract and vague, maybe stick to predicting program classes and future steps for sorting algorithms and other simple problems such as reversing, swapping intervals, heaps and binary search trees by observing their execution traces. - rephrase
+1C. C C1: this sounds too abstract and vague, maybe stick to predicting program classes and future steps for sorting algorithms and other simple problems such as reversing, swapping intervals, heaps and binary search trees by observing their execution traces. - rephrase
 
 1R. We begin by classifying execution traces of algorithms working on a finite array of numbers that are swapped according to some rules. Next we focus on detecting patterns of a specific class of programs inside a larger set of programs. This is then extended to emulation of algorithms and combination of various programs in order to obtain novel programs and also achieve program optimization. 
 
@@ -157,7 +157,7 @@ METHOD (extension to objective) R1
 
 3C. Whole view: trace, program, code city, etc... - make a diagram - visual
 
-4C. Catalin C2: incorporate nicely all the literature you know on computer programs and software visualization
+4C. C C2: incorporate nicely all the literature you know on computer programs and software visualization
 
 POINT 3 (extension to suggested reads) C1
 -> 
