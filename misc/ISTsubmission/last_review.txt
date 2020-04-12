@@ -4,17 +4,39 @@ Bellow, I bring my suggestions.
 
 Abstract
 -       has -> have
+
+> FIXED
+
 -       I would change "induction methods. (See the following surveys: Kitzelman [1], Gulwani et al. [2] or Kant [3].)" by "induction methods [1][2][3]
+
+> NOT ADDRESSED: With regard to this suggestion, I believe it is important for the reader to know that these citations represent surveys on the work performed in the program induction area.
+
 -       I would remove "In this study, we analyze the effectiveness of execution traces as learning representations for neural network models in a program induction set-up.". this is goal.
+
+> FIXED: by moving this sentence to objective (same as goal).
+
 -       Between Context and Objective subsection, I suggest you add Problem. Try to write one or two phrases explaining what are the problem/limitation of current solutions.
+
+> TODO
+
+> ALL BELOW POINTS NEED ADDRESSING
 
 Introduction
 -       add reference for the two first senteces "In recent years, ….o write programs."
 -       I don't think you need to itemize * Latent program induction and * Program synthesis". Just add them after the "(Kant [3]):"
+
+> Fixed
+
 -       I believe you misunderstand my comment, in the first review, regarding how to refer a paper. I some cases you use Kant [3], but in others just [3]. For example: "Kant [3] reports that problem xyz". And "The problem xyz is reported in the literature [3]" The sentences here says the same think, however there are two ways of add the references. Please, regarding the point, please check the recommendations from the journal
+
+> TODO
+
 Background and Related Research
+
 -       "…of tasks in Devlin et al. [14]. Two methods are reported: training…" ->  …of tasks. In Devlin et al. [14], two methods are reported. First, training…
 -       add semicolons in * Class 1: Stabilizes into a homogeneous structure; * Class 2: Patterns evolve into stable and oscillating structures; * Class 3: Seemingly chaotic patterns; and in any other list you have in the paper.
+
+
 -       I believe my comment on last review was not properly addressed "Unfortunately there is here and in the other section a mix of what is background and what is your work itself. So, I suggest reorganize this section. Name it as Background. Present the topics needed to understand your work: "program induction", "image of algotithm", "program classification", etc. Then you can, at the end of this section make a link to what your work does.". Again, IMO I belive the
 -       
 Method
@@ -44,4 +66,4 @@ Typos to correct:
 
 INTRODUCTION: "is not a human readable for, but resides" ==> did you mean: 'is not in a human readable form' ?
 
-> Thank you for noticing this, it's fixed now.
+> FIXED: Thank you for noticing this, it's fixed now.
