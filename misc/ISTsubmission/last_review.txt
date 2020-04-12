@@ -19,17 +19,15 @@ Abstract
 
 > TODO
 
-> ALL BELOW POINTS NEED ADDRESSING
-
 Introduction
 -       add reference for the two first senteces "In recent years, ….o write programs."
 -       I don't think you need to itemize * Latent program induction and * Program synthesis". Just add them after the "(Kant [3]):"
 
-> Fixed
+> FIXED
 
 -       I believe you misunderstand my comment, in the first review, regarding how to refer a paper. I some cases you use Kant [3], but in others just [3]. For example: "Kant [3] reports that problem xyz". And "The problem xyz is reported in the literature [3]" The sentences here says the same think, however there are two ways of add the references. Please, regarding the point, please check the recommendations from the journal
 
-> TODO
+> ALL BELOW POINTS NEED ADDRESSING
 
 Background and Related Research
 
@@ -43,15 +41,15 @@ Method
 -       this section does not look like a method section. As a method section I wanted to see step-by-step on how your work was conducted, including references to the sections of your paper. However, you give some definitions (e.g. "Altogether, the programs incorporate a variety of concepts relevant in computer science like"). Maybe you can move this definition elsewhere, or try to justify them here.
 -       I would suggest you change this section add the steps of your work, and linking to the sections. After read this section, the reader may have a complete understand of what was done. Obviously, you do not need to give details on how it was done. Maybe you can use an figure that report all steps of your work.
 -       Figure 3 is actually a table
+
+> FIXED
+
 -       Give examples for "Dependency on the input data:"
 -       In summary, I would go forward in this section putting a figure with the step (high level) of your study. I would link it with the sections of you work, and present a short explanation of what is necessary in this section.
 Pattern Detection in Sequences
 -       Try to connect the sections. Try to start explaining the reason of each section. "To go further on the analysis…; To understand xyz, the next step is ". It seems that you ran different experiments and paste together. The suggestions for method section will help in this as well.
 -       Is there any reason why, in Figure 5, the "Explicit" bounders of each box do not match exactly with the "Segmented" section?
 -       "(EXPLICIT) shows" -> EXPLICIT shows.
-
-
-
 
 
 
