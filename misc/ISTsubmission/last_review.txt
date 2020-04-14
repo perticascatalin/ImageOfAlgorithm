@@ -13,11 +13,11 @@ Abstract
 
 -       I would remove "In this study, we analyze the effectiveness of execution traces as learning representations for neural network models in a program induction set-up.". this is goal.
 
-> FIXED: by moving this sentence to objective (same as goal).
+> FIXED: by moving this sentence to the objective part (same as goal).
 
 -       Between Context and Objective subsection, I suggest you add Problem. Try to write one or two phrases explaining what are the problem/limitation of current solutions.
 
-> TODO
+> FIXED: we inserted the following sentence: "When performing a program induction task, it is not feasible to search across all possible programs that map an input to an output because the number of possible combinations or sequences of instructions is too high."
 
 Introduction
 -       add reference for the two first senteces "In recent years, ….o write programs."
