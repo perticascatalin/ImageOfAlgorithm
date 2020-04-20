@@ -55,7 +55,11 @@ Background and Related Research
 Method
 -       this section does not look like a method section. As a method section I wanted to see step-by-step on how your work was conducted, including references to the sections of your paper. However, you give some definitions (e.g. "Altogether, the programs incorporate a variety of concepts relevant in computer science like"). Maybe you can move this definition elsewhere, or try to justify them here.
 
-> ADDRESSED: in progress
+> ADDRESSED (tentative): we agree that there are no step-by-step descriptions on how the work was conducted in this section. After taking another look, it seems that we describe the dataset in this part, which we believe to be valuable information regarding the method of the experiments, but it is as you say: incomplete. So in order for us to address this issue, we suggest the following:
+
+	> leave this part as is, an introduction to the method: dataset, classes of programs etc, so that we are not too intrusive with what has been done so far
+
+	> append step-by-step descriptions of the method (steps in conducting the work)
 
 -       I would suggest you change this section add the steps of your work, and linking to the sections. After read this section, the reader may have a complete understand of what was done. Obviously, you do not need to give details on how it was done. Maybe you can use an figure that report all steps of your work.
 
