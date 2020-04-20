@@ -43,17 +43,24 @@ from https://www.elsevier.com/journals/information-and-software-technology/0950-
 Background and Related Research
 
 -       "…of tasks in Devlin et al. [14]. Two methods are reported: training…" ->  …of tasks. In Devlin et al. [14], two methods are reported. First, training…
+
+> FIXED: we rephrased these sentences as follows: "However, there are some related experiments which apply program induction to a set of tasks. There are two methods reported in the study conducted by Devlin et al. First, training..."
+
 -       add semicolons in * Class 1: Stabilizes into a homogeneous structure; * Class 2: Patterns evolve into stable and oscillating structures; * Class 3: Seemingly chaotic patterns; and in any other list you have in the paper.
 
+> NOT ADDRESSED: we checked the guidelines and this does not seem to be a convention or a must. Although we want the reviewers to be pleased with each point they raised, we feel that the above mentioned issue is more of a personal/subjective preference.
 
 -       I believe my comment on last review was not properly addressed "Unfortunately there is here and in the other section a mix of what is background and what is your work itself. So, I suggest reorganize this section. Name it as Background. Present the topics needed to understand your work: "program induction", "image of algotithm", "program classification", etc. Then you can, at the end of this section make a link to what your work does.". Again, IMO I belive the
 -       
 Method
 -       this section does not look like a method section. As a method section I wanted to see step-by-step on how your work was conducted, including references to the sections of your paper. However, you give some definitions (e.g. "Altogether, the programs incorporate a variety of concepts relevant in computer science like"). Maybe you can move this definition elsewhere, or try to justify them here.
 
-
+>
 
 -       I would suggest you change this section add the steps of your work, and linking to the sections. After read this section, the reader may have a complete understand of what was done. Obviously, you do not need to give details on how it was done. Maybe you can use an figure that report all steps of your work.
+
+>
+
 -       Figure 3 is actually a table
 
 > FIXED
