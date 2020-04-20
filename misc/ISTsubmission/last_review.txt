@@ -17,15 +17,26 @@ Abstract
 
 -       Between Context and Objective subsection, I suggest you add Problem. Try to write one or two phrases explaining what are the problem/limitation of current solutions.
 
-> FIXED: we inserted the following sentence: "When performing a program induction task, it is not feasible to search across all possible programs that map an input to an output because the number of possible combinations or sequences of instructions is too high."
+> FIXED: to note here that the structured abstract does not include such a subsection as per the guidelines for authors, but we do believe this to be relevant, so we inserted the following paragraph under a new subsection (named Problem) in the Abstract: "When performing a program induction task, it is not feasible to search across all possible programs that map an input to an output because the number of possible combinations or sequences of instructions is too high: at least an exponential growth based on the generated program length. Moreover, there doesn't exist a general framework to formulate such program induction tasks and current computational limitations do not allow a very wide range of machine learning applications in the field of computer programs generation."
 
 Introduction
 -       add reference for the two first senteces "In recent years, ….o write programs."
+
+> FIXED: we added references to 3 articles which we thought to be among the most relevant for this study, namely Balog's DeepCoder model, Devlin's RobustFill and Neural Turing Machines by Graves.
+
 -       I don't think you need to itemize * Latent program induction and * Program synthesis". Just add them after the "(Kant [3]):"
 
 > FIXED
 
 -       I believe you misunderstand my comment, in the first review, regarding how to refer a paper. I some cases you use Kant [3], but in others just [3]. For example: "Kant [3] reports that problem xyz". And "The problem xyz is reported in the literature [3]" The sentences here says the same think, however there are two ways of add the references. Please, regarding the point, please check the recommendations from the journal
+
+> ADDRESSED: we took a look at the guidelines for the journal, which can be found below. It seems that we adhere to the standards, in the sense that we use the authors' names and the reference number enclosed in square brackets. We did a search throught our paper and found no exception to this rule, except in tables where we reference results and it is important to keep the reference short, so that the table fits the page. However, it does seem acceptable to only list the reference number.
+
+"Text: Indicate references by number(s) in square brackets in line with the text. The actual authors can be referred to, but the reference number(s) must always be given.
+Example: '..... as demonstrated [3,6]. Barnaby and Jones [8] obtained a different result ....'
+List: Number the references (numbers in square brackets) in the list in the order in which they appear in the text."
+
+from https://www.elsevier.com/journals/information-and-software-technology/0950-5849/guide-for-authors
 
 > ALL BELOW POINTS NEED ADDRESSING
 
@@ -39,6 +50,9 @@ Background and Related Research
 -       
 Method
 -       this section does not look like a method section. As a method section I wanted to see step-by-step on how your work was conducted, including references to the sections of your paper. However, you give some definitions (e.g. "Altogether, the programs incorporate a variety of concepts relevant in computer science like"). Maybe you can move this definition elsewhere, or try to justify them here.
+
+
+
 -       I would suggest you change this section add the steps of your work, and linking to the sections. After read this section, the reader may have a complete understand of what was done. Obviously, you do not need to give details on how it was done. Maybe you can use an figure that report all steps of your work.
 -       Figure 3 is actually a table
 

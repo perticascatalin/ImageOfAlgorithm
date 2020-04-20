@@ -244,4 +244,4 @@ Based on our analysis of the experimental results, we can draw some conclusions 
 
 ## 7. Prepare Answers
 
-(40 greens + 17 blues + 2 yellow) 59/140
+(40 greens + 18 blues + 2 yellow) 60/140
