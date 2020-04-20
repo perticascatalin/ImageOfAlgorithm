@@ -67,12 +67,18 @@ Method
 
 -       Give examples for "Dependency on the input data:"
 -       In summary, I would go forward in this section putting a figure with the step (high level) of your study. I would link it with the sections of you work, and present a short explanation of what is necessary in this section.
+
 Pattern Detection in Sequences
 -       Try to connect the sections. Try to start explaining the reason of each section. "To go further on the analysis…; To understand xyz, the next step is ". It seems that you ran different experiments and paste together. The suggestions for method section will help in this as well.
+
+
 -       Is there any reason why, in Figure 5, the "Explicit" bounders of each box do not match exactly with the "Segmented" section?
+
+> ADDRESSED: There is no reason behind this. The approximate alignment is due to how the figure was composed in the editor we used. The EXPLICIT part approximates the regions of the execution trace which belong to different classes of conceptually different programs (sorting vs. not-sorting), while the SEGMENTED part contains exact labels of the program run to generate that interval of execution trace (eg. insertion sort, reversing the array, heap sort etc.).
+
 -       "(EXPLICIT) shows" -> EXPLICIT shows.
 
-
+> FIXED
 
 Reviewer #2: All concerns raised against the earlier version have now been addressed to a very satisfactory outcome.
 
