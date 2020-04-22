@@ -38,8 +38,6 @@ List: Number the references (numbers in square brackets) in the list in the orde
 
 from https://www.elsevier.com/journals/information-and-software-technology/0950-5849/guide-for-authors
 
-> ALL BELOW POINTS NEED ADDRESSING
-
 Background and Related Research
 
 -       "…of tasks in Devlin et al. [14]. Two methods are reported: training…" ->  …of tasks. In Devlin et al. [14], two methods are reported. First, training…
@@ -63,7 +61,15 @@ Method
 
 -       I would suggest you change this section add the steps of your work, and linking to the sections. After read this section, the reader may have a complete understand of what was done. Obviously, you do not need to give details on how it was done. Maybe you can use an figure that report all steps of your work.
 
-> NOT ADDRESSED (YET 2)
+> FIXED: although we did not use a figure to report these steps, we described all the steps in our work in the method part. We made a separate subsection called Dataset to include the content which already existed under Method.
+
+> Then we created 3 separate subsections containing a summary of all that the reader needs to know in order to walk through the paper, namely:
+
+> Training & Testing Methodology: how models are generally set up in all the experiments. This is probably required on account of the machine learning side of the experiments.
+
+> Experimental Methodology: summary of steps (for each experimental section) and the motivation behind them.
+
+> Comparison Methodology: a few words on how we compared the results from our approach to others (this is for the comparison section, after the 3 experimental sections).
 
 -       Figure 3 is actually a table
 
@@ -77,13 +83,12 @@ Method
 
 -       In summary, I would go forward in this section putting a figure with the step (high level) of your study. I would link it with the sections of you work, and present a short explanation of what is necessary in this section.
 
-> NOT ADDRESSED (YET 3)
+> ADDRESSED: we added the links to other subsections and brief descriptions of the steps.
 
 Pattern Detection in Sequences
 -       Try to connect the sections. Try to start explaining the reason of each section. "To go further on the analysis…; To understand xyz, the next step is ". It seems that you ran different experiments and paste together. The suggestions for method section will help in this as well.
 
-> NOT ADDRESSED (YET 4)
-
+> NOT ADDRESSED (yet)
 
 -       Is there any reason why, in Figure 5, the "Explicit" bounders of each box do not match exactly with the "Segmented" section?
 
