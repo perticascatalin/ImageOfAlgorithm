@@ -5,32 +5,32 @@ Bellow, I bring my suggestions.
 Abstract
 -       has -> have
 
-> FIXED
+> Fixed
 
 -       I would change "induction methods. (See the following surveys: Kitzelman [1], Gulwani et al. [2] or Kant [3].)" by "induction methods [1][2][3]
 
-> NOT ADDRESSED: With regard to this suggestion, I believe it is important for the reader to know that these citations represent surveys on the work performed in the program induction area.
+> Addressed: With regard to this suggestion, I believe it is important for the reader to know that these citations represent surveys on the work performed in the program induction area.
 
 -       I would remove "In this study, we analyze the effectiveness of execution traces as learning representations for neural network models in a program induction set-up.". this is goal.
 
-> FIXED: by moving this sentence to the objective part (same as goal).
+> Fixed: by moving this sentence to the objective part (same as goal).
 
 -       Between Context and Objective subsection, I suggest you add Problem. Try to write one or two phrases explaining what are the problem/limitation of current solutions.
 
-> FIXED: to note here that the structured abstract does not include such a subsection as per the guidelines for authors, but we do believe this to be relevant, so we inserted the following paragraph under a new subsection (named Problem) in the Abstract: "When performing a program induction task, it is not feasible to search across all possible programs that map an input to an output because the number of possible combinations or sequences of instructions is too high: at least an exponential growth based on the generated program length. Moreover, there doesn't exist a general framework to formulate such program induction tasks and current computational limitations do not allow a very wide range of machine learning applications in the field of computer programs generation."
+> Fixed: to note here that the structured abstract does not include such a subsection as per the guidelines for authors, but we do believe this to be relevant, so we inserted the following paragraph under a new subsection (named Problem) in the Abstract: "When performing a program induction task, it is not feasible to search across all possible programs that map an input to an output because the number of possible combinations or sequences of instructions is too high: at least an exponential growth based on the generated program length. Moreover, there doesn't exist a general framework to formulate such program induction tasks and current computational limitations do not allow a very wide range of machine learning applications in the field of computer programs generation."
 
 Introduction
 -       add reference for the two first senteces "In recent years, ….o write programs."
 
-> FIXED: we added references to 3 articles which we thought to be among the most relevant for this study, namely Balog's DeepCoder model, Devlin's RobustFill and Neural Turing Machines by Graves.
+> Fixed: we added references to 3 articles which we thought to be among the most relevant for this study, namely Balog's DeepCoder model, Devlin's RobustFill and Neural Turing Machines by Graves.
 
 -       I don't think you need to itemize * Latent program induction and * Program synthesis". Just add them after the "(Kant [3]):"
 
-> FIXED
+> Fixed
 
 -       I believe you misunderstand my comment, in the first review, regarding how to refer a paper. I some cases you use Kant [3], but in others just [3]. For example: "Kant [3] reports that problem xyz". And "The problem xyz is reported in the literature [3]" The sentences here says the same think, however there are two ways of add the references. Please, regarding the point, please check the recommendations from the journal
 
-> ADDRESSED: we took a look at the guidelines for the journal, which can be found below. It seems that we adhere to the standards, in the sense that we use the authors' names and the reference number enclosed in square brackets. We did a search throught our paper and found no exception to this rule, except in tables where we reference results and it is important to keep the reference short, so that the table fits the page. However, it does seem acceptable to only list the reference number.
+> Addressed: we took a look at the guidelines for the journal, which can be found below. It seems that we adhere to the standards, in the sense that we use the authors' names and the reference number enclosed in square brackets. We did a search throught our paper and found no exception to this rule, except in tables where we reference results and it is important to keep the reference short, so that the table fits the page. However, it does seem acceptable to only list the reference number.
 
 "Text: Indicate references by number(s) in square brackets in line with the text. The actual authors can be referred to, but the reference number(s) must always be given.
 Example: '..... as demonstrated [3,6]. Barnaby and Jones [8] obtained a different result ....'
@@ -42,18 +42,18 @@ Background and Related Research
 
 -       "…of tasks in Devlin et al. [14]. Two methods are reported: training…" ->  …of tasks. In Devlin et al. [14], two methods are reported. First, training…
 
-> FIXED: we rephrased these sentences as follows: "However, there are some related experiments which apply program induction to a set of tasks. There are two methods reported in the study conducted by Devlin et al. First, training..."
+> Fixed: we rephrased these sentences as follows: "However, there are some related experiments which apply program induction to a set of tasks. There are two methods reported in the study conducted by Devlin et al. First, training..."
 
 -       add semicolons in * Class 1: Stabilizes into a homogeneous structure; * Class 2: Patterns evolve into stable and oscillating structures; * Class 3: Seemingly chaotic patterns; and in any other list you have in the paper.
 
-> NOT ADDRESSED: we checked the guidelines and this does not seem to be a convention or a must. Although we want the reviewers to be pleased with each point they raised, we feel that the above mentioned issue is more of a personal/subjective preference.
+> Fixed
 
 -       I believe my comment on last review was not properly addressed "Unfortunately there is here and in the other section a mix of what is background and what is your work itself. So, I suggest reorganize this section. Name it as Background. Present the topics needed to understand your work: "program induction", "image of algotithm", "program classification", etc. Then you can, at the end of this section make a link to what your work does.". Again, IMO I belive the
 -       
 Method
 -       this section does not look like a method section. As a method section I wanted to see step-by-step on how your work was conducted, including references to the sections of your paper. However, you give some definitions (e.g. "Altogether, the programs incorporate a variety of concepts relevant in computer science like"). Maybe you can move this definition elsewhere, or try to justify them here.
 
-> ADDRESSED (tentative): we agree that there are no step-by-step descriptions on how the work was conducted in this section. After taking another look, it seems that we describe the dataset in this part, which we believe to be valuable information regarding the method of the experiments, but it is as you say: incomplete. So in order for us to address this issue, we suggest the following:
+> Addressed: we agree that there are no step-by-step descriptions on how the work was conducted in this section. After taking another look, it seems that we describe the dataset in this part, which we believe to be valuable information regarding the method of the experiments, but it is as you say: incomplete. So in order for us to address this issue, we suggest the following:
 
 	> leave this part as is, an introduction to the method: dataset, classes of programs etc, so that we are not too intrusive with what has been done so far
 
@@ -61,7 +61,7 @@ Method
 
 -       I would suggest you change this section add the steps of your work, and linking to the sections. After read this section, the reader may have a complete understand of what was done. Obviously, you do not need to give details on how it was done. Maybe you can use an figure that report all steps of your work.
 
-> FIXED: although we did not use a figure to report these steps, we described all the steps in our work in the method part. We made a separate subsection called Dataset to include the content which already existed under Method.
+> Fixed: although we did not use a figure to report these steps, we described all the steps in our work in the method part. We made a separate subsection called Dataset to include the content which already existed under Method.
 
 > Then we created 3 separate subsections containing a summary of all that the reader needs to know in order to walk through the paper, namely:
 
@@ -73,30 +73,32 @@ Method
 
 -       Figure 3 is actually a table
 
-> FIXED
+> Fixed
 
 -       Give examples for "Dependency on the input data:"
 
-> FIXED: we changed this paragraph to include more detailed examples as follows:
+> Fixed: we changed this paragraph to include more detailed examples as follows:
 
 "Dependency on the input data: the sorting strategy depends on the input order. For instance, bubblesort, insertionsort, quicksort and randomsort will not perform any swap at all if the array is already sorted. Similarly, heapsort will not perform the part for creating the heap structure if the array already has a heap structure. But will always perform the repetitive procedure of extracting the minimum in order to get the array sorted once the heap structure is established. However, the input data does not have an influence on the strategy of the algorithm while reversing an array or when performing interval swaps. This is because the array values are irrelevant for the decisions made in non-sorting algorithms."
 
 -       In summary, I would go forward in this section putting a figure with the step (high level) of your study. I would link it with the sections of you work, and present a short explanation of what is necessary in this section.
 
-> ADDRESSED: we added the links to other subsections and brief descriptions of the steps.
+> Fixed: we added the links to other subsections and brief descriptions of the steps.
 
 Pattern Detection in Sequences
 -       Try to connect the sections. Try to start explaining the reason of each section. "To go further on the analysis…; To understand xyz, the next step is ". It seems that you ran different experiments and paste together. The suggestions for method section will help in this as well.
 
-> NOT ADDRESSED (yet)
+> Fixed: 
+
+"We explore the potential of sequential learning models..." -> "Now that we have demonstrated that neural networks can distinguish between sorting and non-sorting algorithms based on the Image of Algorithm, the next challenge is to see if program classification can be extended to program detection. For this, we explore the potential of sequential learning models..."
 
 -       Is there any reason why, in Figure 5, the "Explicit" bounders of each box do not match exactly with the "Segmented" section?
 
-> ADDRESSED: There is no reason behind this. The approximate alignment is due to how the figure was composed in the editor we used. The EXPLICIT part approximates the regions of the execution trace which belong to different classes of conceptually different programs (sorting vs. not-sorting), while the SEGMENTED part contains exact labels of the program run to generate that interval of execution trace (eg. insertion sort, reversing the array, heap sort etc.).
+> Addressed: There is no reason behind this. The approximate alignment is due to how the figure was composed in the editor we used. The EXPLICIT part approximates the regions of the execution trace which belong to different classes of conceptually different programs (sorting vs. not-sorting), while the SEGMENTED part contains exact labels of the program run to generate that interval of execution trace (eg. insertion sort, reversing the array, heap sort etc.).
 
 -       "(EXPLICIT) shows" -> EXPLICIT shows.
 
-> FIXED
+> Fixed
 
 Reviewer #2: All concerns raised against the earlier version have now been addressed to a very satisfactory outcome.
 
@@ -109,4 +111,4 @@ Typos to correct:
 
 INTRODUCTION: "is not a human readable for, but resides" ==> did you mean: 'is not in a human readable form' ?
 
-> FIXED: Thank you for noticing this, it's fixed now.
+> Fixed: Thank you for noticing this, it's Fixed now.
