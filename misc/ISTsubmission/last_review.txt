@@ -30,7 +30,7 @@ Introduction
 
 -       I believe you misunderstand my comment, in the first review, regarding how to refer a paper. I some cases you use Kant [3], but in others just [3]. For example: "Kant [3] reports that problem xyz". And "The problem xyz is reported in the literature [3]" The sentences here says the same think, however there are two ways of add the references. Please, regarding the point, please check the recommendations from the journal
 
-> Addressed: we took a look at the guidelines for the journal, which can be found below. It seems that we adhere to the standards, in the sense that we use the authors' names and the reference number enclosed in square brackets. We did a search throught our paper and found no exception to this rule, except in tables where we reference results and it is important to keep the reference short, so that the table fits the page. However, it does seem acceptable to only list the reference number.
+> Addressed: we took a look at the guidelines for the journal, which can be found below. It seems that we adhere to the standards, in the sense that we use the authors' names and the reference number enclosed in square brackets. We did a search through our paper and found no exception to this rule, except in tables where we reference results and it is important to keep the reference short, so that the table fits the page. However, it does seem acceptable to only list the reference number.
 
 "Text: Indicate references by number(s) in square brackets in line with the text. The actual authors can be referred to, but the reference number(s) must always be given.
 Example: '..... as demonstrated [3,6]. Barnaby and Jones [8] obtained a different result ....'
